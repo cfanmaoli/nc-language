@@ -92,6 +92,17 @@ python3 tools/new-language.py de
 This writes `languages/de.json`. Fill in the `translation` values, then check the file and open a
 pull request - exactly as described below.
 
+## Machine-translated drafts
+
+`languages/` contains machine-translated drafts for 92 of the target languages, bootstrapped from
+the English reference with `tools/machine_translate.py` (Google Translate). They are a starting
+point, not reviewed translations: every entry that could not be translated safely (for example one
+whose format placeholders would have been damaged) was left empty and falls back to English.
+Native speakers are very welcome to correct these files.
+
+The remaining target languages are not supported by the machine translation engine and still need a
+manual translation - run `python3 tools/new-language.py <code>` to get the skeleton.
+
 ## Contributing a translation
 
 1. Create `languages/<code>.json` - either copy [`languages/en.json`](languages/en.json) or run
@@ -118,6 +129,7 @@ A partial translation is fine — empty or missing entries fall back to English.
 | `languages.json` | The target languages, based on Firefox's locale list |
 | `tools/new-language.py` | Creates a translation skeleton for one language |
 | `tools/check-language.py` | Small validator for a translated file |
+| `tools/machine_translate.py` | Bootstraps the machine-translated drafts from the English reference |
 
 ## Format
 
