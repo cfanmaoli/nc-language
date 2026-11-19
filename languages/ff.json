@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "On njaaraama e huutoraade koppi binnditagol Nimble Komanda-Fork! Tiiɗno, fuɗɗoro-ɗaa ɗum ngam waylooji ɗii mbaɗta huutoreede."
+      "translation": "On njaaraama e huutoraade koppi Nimble Commander-Fork binnditagol! Tiiɗno, fuɗɗoro-ɗaa ɗum ngam waylooji ɗii mbaɗta huutoreede."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Ko ɗum mbaydi jarribordi Nimble Komanda-Fork.\nNgam jokkude huutoraade ooɗoo lowre caggal balɗe 30 jarribo, aɗa foti soodde laylaytol walla sosde mbaydi yoɓaandi e Mac App Store.\nOoɗoo windo feeñata tan ko e mbaydi jarribordi."
+      "translation": "Ɗum ko mbaydi jarribordi Nimble Commander-Fork.\nNgam jokkude huutoraade ooɗoo lowre caggal balɗe 30 jarribo, aɗa foti soodde laylaytol walla sosde mbaydi yoɓaandi e Mac App Store.\nOoɗoo windo feeñata tan ko e mbaydi jarribordi."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Komanda-Fork ina haani heɓde Disko timmuɗo ngam gollodaade e Trash."
+      "translation": "Nimble Commander-Fork ina haani heɓde Disko timmuɗo ngam gollodaade e Trash."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Ɗuum maa addan Nimble Commander-Fork naamnaade ma jokkondire so ina haani."
+      "translation": "Ɗuum maa addan Nimble Commander-Fork naamndaade ma jokkondire so ina haani."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Tiiɗno, hoolkiso wonde ko a Gardiiɗo ngam rokkude Nimble Commander-Fork hakkeeji goɗɗi"
+      "translation": "Tiiɗno, hoolkiso wonde aɗa woni Ardiiɗo ngam rokkude Nimble Commander-Fork hakkeeji goɗɗi"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Tiiɗno, hoolkiso wonde ko a Gardiiɗo ngam newnude Nimble Commander-Fork sosde geɗe ɓeydooje."
+      "translation": "Tiiɗno, hoolkiso wonde aɗa woni Ardiiɗo ngam newnude Nimble Commander-Fork waɗde geɗe goɗɗe."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Suuɗde Nimble Komanda-Forko"
+      "translation": "Suuɗ Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Woppu Nimble Komanda-Fork"
+      "translation": "Woppu Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Komandaajo-Forko Nimble"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Komandaajo-Forko Nimble"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ko fayti e Nimble Komanda-Fork"
+      "translation": "Ko fayti e Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Nimble Komanda-Fork Ballal"
+      "translation": "Nimble Commander-Fork Wallude"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Naatgol %@ ngam “%@”.\n\nFuɗɗoo Nimble Komanda-Fork ngam yiyde ɗemngal kesal ngal."
+      "translation": "Naatgol %@ ngam “%@”.\n\nFuɗɗito Nimble Commander-Fork ngam yiyde ɗemngal kesal ngal."
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Fuɗɗoraade Nimble Komanda-Fork ngam huutoraade ɗemngal kesal ngal?"
+      "translation": "Fuɗɗito Nimble Commander-Fork ngam huutoraade ɗemngal kesal ngal?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Ɗemngal jokkorgal ngal maa waylo sahaa garoowo nde Nimble Commander-Fork fuɗɗotoo."
+      "translation": "Ɗemngal jokkorgal ngal maa waylo sahaa garoowo so Nimble Commander-Fork fuɗɗiima."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Aɗa waawi firtude jokkorgal Nimble Commander-Fork e ɗemngal goɗngal, walla huutoraade firo ngo goɗɗo waɗi. Yaltin ɗemngal jooni ngal, lomtin binndol ngol e firo maa, caggal ɗuum naatnu fiilngo ngoo caggal, puɗɗo-ɗaa app oo."
+      "translation": "Aɗa waawi firtude jokkorgal Nimble Commander-Fork ngal e ɗemngal goɗngal, walla huutoraade firo ngo goɗɗo waɗi. Yaltin ɗemngal jooni ngal, lomtin binndol ngol e firo maa, caggal ɗuum naatnu fiilngo ngoo caggal, puɗɗo-ɗaa app oo."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Laabi fiilde iwdi e nder fiilde binndol, ina famɗi"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Innde fiilngo huunde nde njiɗ-ɗaa tawa alaa ɓeydaare"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Innde fiilde huunde iwdi tawa alaa ɓeydaare"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Moƴƴinde %#@geɗe@"
+      "translation": "Koppirde geɗe %d"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Naatde e dottaaɗe ummoraade e Komanda Nimble?"
+      "translation": "Naatnude dottaaɗe ummoraade e Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Komanda-Fork ƴeewii dottaaɗe app Nimble Komanda asliijo kono yiytaa heen."
+      "translation": "Nimble Commander-Fork ƴeewtiima dottaaɗe app Nimble Commander asliijo kono yiytaa hay gooto."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Alaa dottaaɗe Komanda Nimble tawaa"
+      "translation": "Alaa dottaaɗe Nimble Commander tawaa"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Dottaaɗe ɗee tawaama to:\n%@\n\nNaatgol lomtotoo ko ɓuranɗe jooni ɗee e taƴe hisnaaɗe ɗee ; ko kamɓe ngoni backup ko adii. Nimble Komanda-Fork ndeen fuɗɗotoo."
+      "translation": "Dottaaɗe ɗee tawaama to:\n%@\n\nNaatgol lomtotoo ko ɓuranɗe jooni ɗee e taƴe hisnaaɗe ɗee ; ko kamɓe ngoni backup ko adii. Nimble Commander-Fork ndeen fuɗɗotoo."
     },
     {
       "bundle": "",

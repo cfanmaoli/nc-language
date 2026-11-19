@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Dit sil meitsje dat Nimble Commander-Fork jo freget om tagong as it nedich is."
+      "translation": "Dit soarget derfoar dat Nimble Commander-Fork jo freget om tagong as it nedich is."
     },
     {
       "bundle": "",
@@ -836,7 +836,7 @@
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Autentisearje asjebleaft as behearder om Nimble Commander-Fork ekstra komponinten te ynstallearjen."
+      "translation": "Autentisearje as behearder om Nimble Commander-Fork ekstra komponinten te ynstallearjen."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -3419,7 +3419,7 @@
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Quit Nimble Commander-Fork"
+      "translation": "Ofslute Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "De ynterfacetaal sil de folgjende kear feroarje as Nimble Commander-Fork begjint."
+      "translation": "De ynterfacetaal sil feroarje de folgjende kear dat Nimble Commander-Fork begjint."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Jo kinne de ynterface fan Nimble Commander-Fork oersette yn in oare taal, of in oersetting brûke makke troch in oar. Eksportearje de hjoeddeistige taal, ferfange de tekst troch jo eigen oersetting, ymportearje dan it bestân werom en start de app opnij."
+      "translation": "Jo kinne de ynterface fan Nimble Commander-Fork oersette yn in oare taal, of in oersetting brûke dy't makke is troch in oar. Eksportearje de hjoeddeistige taal, ferfange de tekst troch jo eigen oersetting, ymportearje dan it bestân werom en start de app opnij."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Boarne triempaden yn in teksttriem, beheind"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Bestânsnamme fan doel item sûnder tafoeging"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Bestânsnamme fan boarne item sûnder tafoeging"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Komprimearje %#@items@"
+      "translation": "It komprimearjen fan %d items"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork socht nei de ynstellingen fan 'e orizjinele Nimble Commander-app, mar fûn gjin."
+      "translation": "Nimble Commander-Fork socht nei de ynstellingen fan de orizjinele Nimble Commander app, mar fûn gjin."
     },
     {
       "bundle": "",

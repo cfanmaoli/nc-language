@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Olu luhlobo lovavanyo lwe-Nimble Commander-Fork.\nUkuqhubeka nokusebenzisa le software emva kwexesha lovavanyo lweentsuku ezingama-30, kuya kufuneka uthenge ilayisenisi okanye ufake inguqulelo ehlawulweyo kwiVenkile ye-Mac App.\nLe festile ibonakala kuphela kuguqulelo lwesilingo."
+      "translation": "Olu luhlobo lovavanyo lwe Nimble Commander-Fork.\nUkuqhubeka nokusebenzisa le software emva kwexesha lovavanyo lweentsuku ezingama-30, kuya kufuneka uthenge ilayisenisi okanye ufake inguqulelo ehlawulweyo kwiVenkile ye-Mac App.\nLe festile ibonakala kuphela kuguqulelo lwesilingo."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "I-Nimble Commander-Fork idinga uFikelelo olupheleleyo lweDiskhi ukuze isebenze neNkunkuma."
+      "translation": "Nimble Commander-Fork idinga uFikelelo olupheleleyo lweDiskhi ukuze isebenze neNkunkuma."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Oku kuya kubangela ukuba iNimble Commander-Fork ikucele ufikelelo xa kuyimfuneko."
+      "translation": "Oku kuya kubangela ukuba Nimble Commander-Fork ikucele ufikelelo xa kuyimfuneko."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Nceda uqinisekise njengoMlawuli ukubonelela ngamalungelo ongezelelweyo weCommander-Fork"
+      "translation": "Nceda uqinisekise njengoMlawuli ukubonelela Nimble Commander-Fork ngamalungelo ongezelelweyo"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Nceda ungqinisise njengoMlawuli ukuvumela iNimble Commander-Fork ukufaka amacandelo awongezelelweyo."
+      "translation": "Nceda ungqinisise njengoMlawuli ukuze uvumele Nimble Commander-Fork ufakele amalungu awongezelelweyo."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "INimble Commander-Fork iya kuzikhuphela kwindawo yethutyana ngaphambi kokuba zivulwe."
+      "translation": "Nimble Commander-Fork iya kuzikhuphela kwindawo yethutyana phambi kokuba zivulwe."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "I-Nimble Commander-Fork iya kwenza ikopi kwindawo yethutyana ngaphambi kokuba ivulwe."
+      "translation": "Nimble Commander-Fork iyakwenza ikopi kwindawo yethutyana phambi kokuba ivulwe."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Fihla iNimble Commander-Fork"
+      "translation": "Fihla Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Yeka iNimble Commander-Fork"
+      "translation": "Yeka Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "I-Nimble Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "I-Nimble Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Malunga neNimble Commander-Fork"
+      "translation": "Malunga Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "I-Nimble Commander-Fork Uncedo"
+      "translation": "Nimble Commander-Fork Uncedo"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Ingeniso %@ ye “%@”.\n\nQala kwakhona iNimble Commander-Fork ukuze ubone ulwimi olutsha."
+      "translation": "Ingeniso %@ ye “%@”.\n\nQala kwakhona Nimble Commander-Fork ukubona ulwimi olutsha."
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Qalisa kwakhona iNimble Commander-Fork ukuze usebenzise ulwimi olutsha?"
+      "translation": "Qala kwakhona Nimble Commander-Fork ukusebenzisa ulwimi olutsha?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Ulwimi lojongano luya kutshintsha kwixesha elizayo iNimble Commander-Fork iqala."
+      "translation": "Ulwimi lojongano luya kutshintsha kwixesha elizayo Nimble Commander-Fork iqala."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Ungaguqulela ujongano lweNimble Commander-Fork kolunye ulwimi, okanye usebenzise inguqulelo eyenziwe ngomnye umntu. Thumela ulwimi lwangoku, buyisela okubhaliweyo ngeyakho inguqulelo, emva koko ungenise ifayile kwakhona kwaye uqalise kwakhona usetyenziso."
+      "translation": "Ungaguqulela ujongano lwe Nimble Commander-Fork kolunye ulwimi, okanye usebenzise inguqulelo eyenziwe ngomnye umntu. Thumela ulwimi lwangoku, buyisela okubhaliweyo ngenguqulelo yakho, emva koko ungenise ifayile kwakhona kwaye uqalise kwakhona usetyenziso."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "% 10LP Umthombo weendlela zefayile kwifayile yokubhaliweyo, elinganiselwe"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Into ekujoliswe kuyo igama lefayile ngaphandle kokwandiswa"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Into yemvelaphi yegama lefayile ngaphandle kolwandiso"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Ukucinezela %#@items@"
+      "translation": "Ukucinezela %d izinto"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Thatha ngaphandle useto kwiCommander yeNimble?"
+      "translation": "Thatha ngaphandle iisetingi ukusuka ku-Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "I-Nimble Commander-Fork yajonga useto lwe-app yokuqala ye-Nimble Commander kodwa ayifumananga."
+      "translation": "Nimble Commander-Fork ijonge useto lweyoqobo Nimble Commander app kodwa ayifumananga."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Akukho seto lweCommander yeNimble ifunyenwe"
+      "translation": "Akukho Nimble Commander useto olufunyenweyo"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Iisetingi zifunyenwe apha:\n%@\n\nUkurhweba ngaphandle kungena endaweni yokhetho lwangoku kunye neethebhu ezigciniweyo; zixhaswa kuqala. I-Nimble Commander-Fork ke iphinda iqalise."
+      "translation": "Iisetingi zifunyenwe apha:\n%@\n\nUkurhweba ngaphandle kungena endaweni yokhetho lwangoku kunye neethebhu ezigciniweyo; zixhaswa kuqala. Nimble Commander-Fork emva koko iqalise kwakhona."
     },
     {
       "bundle": "",

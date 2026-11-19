@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Lai strādātu ar miskasti, Nimble Commander-Fork ir nepieciešama pilna piekļuve diskam."
+      "translation": "Nimble Commander-Fork ir nepieciešama pilna piekļuve diskam, lai strādātu ar atkritni."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Tas liks Nimble Commander-Fork nepieciešamības gadījumā lūgt jums piekļuvi."
+      "translation": "Tādējādi Nimble Commander-Fork nepieciešamības gadījumā lūgs jums piekļuvi."
     },
     {
       "bundle": "",
@@ -836,7 +836,7 @@
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Lūdzu, autentificējieties kā administrators, lai ļautu Nimble Commander-Fork instalēt papildu komponentus."
+      "translation": "Lūdzu, autentificējieties kā administrators, lai atļautu Nimble Commander-Fork instalēt papildu komponentus."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork pārkopēs tos uz pagaidu vietu, pirms tos varēs atvērt."
+      "translation": "Nimble Commander-Fork tos kopēs uz pagaidu atrašanās vietu, pirms tos varēs atvērt."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Slēpt veikls komandieris-dakša"
+      "translation": "Paslēpt Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Iziet no Nimble Commander-Fork"
+      "translation": "Iziet Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Veikls komandieris-dakša"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Veikls komandieris-dakša"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Par veiklo komandieri-dakšu"
+      "translation": "Apmēram Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Izveicīgs komandieris-dakšas palīdzība"
+      "translation": "Nimble Commander-Fork Palīdzība"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Interfeisa valoda mainīsies nākamreiz, kad Nimble Commander-Fork startēs."
+      "translation": "Interfeisa valoda tiks mainīta nākamreiz, kad Nimble Commander-Fork sāksies."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP avota failu ceļi teksta failā, ierobežoti"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Mērķa vienuma faila nosaukums bez paplašinājuma"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Avota vienuma faila nosaukums bez paplašinājuma"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@vienumu saspiešana@"
+      "translation": "%d vienumu saspiešana"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork meklēja sākotnējās lietotnes Nimble Commander iestatījumus, bet neatrada."
+      "translation": "Nimble Commander-Fork meklēja sākotnējās lietotnes Nimble Commander iestatījumus, taču nevienu neatrada."
     },
     {
       "bundle": "",

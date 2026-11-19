@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Ташаккур ба шумо барои истифода аз нусхаи сабтшудаи Nimble Commander-Fork! Лутфан онро аз нав оғоз кунед, то тағиротҳо эътибор пайдо кунанд."
+      "translation": "Ташаккур ба шумо барои истифода бурдани нусхаи сабти Nimble Commander-Fork! Лутфан онро аз нав оғоз кунед, то тағиротҳо эътибор пайдо кунанд."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork барои кор бо партов дастрасии пурраи дискро талаб мекунад."
+      "translation": "Nimble Commander-Fork барои кор бо партов дастрасии пурраи диск лозим аст."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Ин боиси он мегардад, ки Nimble Commander-Fork ҳангоми зарурат аз шумо дастрасӣ пайдо кунад."
+      "translation": "Ин боиси он мегардад, ки Nimble Commander-Fork ҳангоми зарурат аз шумо дастрасиро талаб кунад."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Лутфан ҳамчун маъмур тасдиқ кунед, то ҳуқуқҳои иловагии Nimble Commander-Forkро таъмин кунед"
+      "translation": "Лутфан ҳамчун Администратор тасдиқ кунед, то ҳуқуқҳои иловагӣ Nimble Commander-Fork таъмин кунед"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Лутфан ҳамчун администратор аутентификатсия кунед, то ба Nimble Commander-Fork ҷузъҳои иловагӣ насб кунад."
+      "translation": "Лутфан худро ҳамчун администратор тасдиқ кунед, то Nimble Commander-Fork ҷузъҳои иловагӣ насб кунед."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork онҳоро пеш аз кушодани онҳо ба макони муваққатӣ нусхабардорӣ мекунад."
+      "translation": "Nimble Commander-Fork пеш аз кушодани онҳо онҳоро ба макони муваққатӣ нусхабардорӣ мекунад."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork пеш аз кушодани он нусхаро дар макони муваққатӣ эҷод мекунад."
+      "translation": "Nimble Commander-Fork пеш аз кушодани он дар макони муваққатӣ нусха эҷод мекунад."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork -ро пинҳон кунед"
+      "translation": "Пинҳон кардани Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Аз Nimble Commander-Fork даст кашед"
+      "translation": "Бароед Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,14 +3566,14 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Фармондеҳи фаврӣ-Форк"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Фармондеҳи фаврӣ-Форк"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Кӯмаки Nimble Commander-Fork"
+      "translation": "Nimble Commander-Fork Кӯмак"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Барои татбиқи забони нав Nimble Commander-Fork-ро аз нав оғоз кунед?"
+      "translation": "Барои татбиқи забони нав Nimble Commander-Fork-ро бозоғоз намоед?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Забони интерфейс ҳангоми оғоз шудани Nimble Commander-Fork дигар мешавад."
+      "translation": "Дафъаи оянда Nimble Commander-Fork оғоз шудани забони интерфейс иваз мешавад."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Шумо метавонед интерфейси Nimble Commander-Fork-ро ба забони дигар тарҷума кунед ё тарҷумаи аз ҷониби ягон каси дигар сохташударо истифода баред. Забони ҷориро содир кунед, матнро бо тарҷумаи худ иваз кунед, пас файлро дубора ворид кунед ва барномаро бозоғоз намоед."
+      "translation": "Шумо метавонед интерфейси Nimble Commander-Forkро ба забони дигар тарҷума кунед ё тарҷумаи аз ҷониби ягон каси дигар сохташударо истифода баред. Забони ҷориро содир кунед, матнро бо тарҷумаи худ иваз кунед, пас файлро дубора ворид кунед ва барномаро бозоғоз намоед."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Манбаи файлҳо дар файли матнӣ, маҳдуд"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Номи файли объекти мақсаднок бидуни тамдид"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Номи файли унсури манбаъ бидуни тамдид"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Фишор кардани %#@ element@"
+      "translation": "Фишурдани %d ашё"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork танзимоти барномаи аслии Nimble Commander-ро ҷустуҷӯ кард, аммо ҳеҷ чиз наёфт."
+      "translation": "Nimble Commander-Fork танзимоти барномаи аслии Nimble Commanderро ҷустуҷӯ кард, вале ҳеҷ чиз наёфт."
     },
     {
       "bundle": "",

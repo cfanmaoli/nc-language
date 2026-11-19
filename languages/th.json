@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ต้องการการเข้าถึงดิสก์แบบเต็มเพื่อทำงานกับถังขยะ"
+      "translation": "Nimble Commander-Fork จำเป็นต้องมีการเข้าถึงดิสก์แบบเต็มเพื่อทำงานกับถังขยะ"
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "ซึ่งจะทำให้ Nimble Commander-Fork ขอให้คุณเข้าถึงเมื่อจำเป็น"
+      "translation": "สิ่งนี้จะทำให้Nimble Commander-Forkขอให้คุณเข้าถึงเมื่อจำเป็น"
     },
     {
       "bundle": "",
@@ -836,7 +836,7 @@
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "โปรดตรวจสอบสิทธิ์ในฐานะผู้ดูแลระบบเพื่ออนุญาตให้ Nimble Commander-Fork ติดตั้งส่วนประกอบเพิ่มเติม"
+      "translation": "โปรดรับรองความถูกต้องในฐานะผู้ดูแลระบบเพื่ออนุญาตให้Nimble Commander-Forkติดตั้งส่วนประกอบเพิ่มเติม"
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork จะคัดลอกพวกมันไปยังตำแหน่งชั่วคราวก่อนจึงจะสามารถเปิดได้"
+      "translation": "Nimble Commander-Forkจะคัดลอกไปยังตำแหน่งชั่วคราวก่อนจึงจะสามารถเปิดได้"
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork จะสร้างสำเนาในตำแหน่งชั่วคราวก่อนจึงจะสามารถเปิดได้"
+      "translation": "Nimble Commander-Forkจะสร้างสำเนาในตำแหน่งชั่วคราวก่อนจึงจะสามารถเปิดได้"
     },
     {
       "bundle": "",
@@ -3419,7 +3419,7 @@
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ออกจาก Nimble Commander-Fork"
+      "translation": "ออกจากNimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ผู้บัญชาการว่องไว-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ผู้บัญชาการว่องไว-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "เกี่ยวกับ Nimble Commander-Fork"
+      "translation": "ประมาณNimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "ความช่วยเหลือจาก Commander-Fork ที่ว่องไว"
+      "translation": "Nimble Commander-Fork ช่วยเหลือ"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "ภาษาอินเทอร์เฟซจะเปลี่ยนในครั้งถัดไปที่ Nimble Commander-Fork เริ่มทำงาน"
+      "translation": "ภาษาอินเทอร์เฟซจะเปลี่ยนในครั้งถัดไปที่ Nimble Commander-Fork เริ่มต้น"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP เส้นทางไฟล์ต้นฉบับในไฟล์ข้อความ ถูกจำกัด"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n ชื่อไฟล์รายการเป้าหมายที่ไม่มีนามสกุล"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%nชื่อไฟล์รายการต้นฉบับที่ไม่มีนามสกุล"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "กำลังบีบอัด %#@items@"
+      "translation": "กำลังบีบอัด %d รายการ"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "นำเข้าการตั้งค่าจาก Nimble Commander หรือไม่"
+      "translation": "นำเข้าการตั้งค่าจาก Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ค้นหาการตั้งค่าของแอป Nimble Commander ดั้งเดิม แต่ไม่พบเลย"
+      "translation": "Nimble Commander-Fork ค้นหาการตั้งค่าของแอป Nimble Commander ดั้งเดิม แต่ไม่พบการตั้งค่าใดๆ"
     },
     {
       "bundle": "",

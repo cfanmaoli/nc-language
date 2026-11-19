@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nÞessi gluggi birtist aðeins í prufuútgáfunni."
+      "translation": "Þetta er prufuútgáfa af Nimble Commander-Fork.\nTil að halda áfram að nota þennan hugbúnað eftir 30 daga prufutímabilið þarftu annað hvort að kaupa leyfi eða setja upp greidda útgáfu frá Mac App Store.\nÞessi gluggi birtist aðeins í prufuútgáfunni."
     },
     {
       "bundle": "",
@@ -836,7 +836,7 @@
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Vinsamlegast auðkenndu sem stjórnandi til að leyfa Nimble Commander-Fork að setja upp viðbótaríhluti."
+      "translation": "Vinsamlegast auðkenndu sem stjórnandi til að leyfa Nimble Commander-Fork uppsetningu viðbótaríhluta."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork hjálp"
+      "translation": "Nimble Commander-Fork Hjálp"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Endurræstu Nimble Commander-Fork til að nota nýja tungumálið?"
+      "translation": "Endurræsa Nimble Commander-Fork til að nota nýja tungumálið?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Viðmótstungumálið mun breytast næst þegar Nimble Commander-Fork byrjar."
+      "translation": "Tungumál viðmótsins breytist næst þegar Nimble Commander-Fork byrjar."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Þú getur þýtt viðmót Nimble Commander-Fork yfir á annað tungumál, eða notað þýðingu sem einhver annar hefur gert. Flyttu út núverandi tungumál, skiptu textanum út fyrir þína eigin þýðingu, fluttu síðan skrána aftur inn og endurræstu forritið."
+      "translation": "Þú getur þýtt viðmót Nimble Commander-Fork á annað tungumál eða notað þýðingu sem einhver annar hefur gert. Flyttu út núverandi tungumál, skiptu textanum út fyrir þína eigin þýðingu, fluttu síðan skrána aftur inn og endurræstu forritið."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Upprunaskráarslóðir í textaskrá, takmarkaðar"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Skráarheiti markmiðsatriðis án framlengingar"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Skráarnafn upprunavöru án framlengingar"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Þjappa %#@hlutum@"
+      "translation": "Þjappað %d hlutum"
     },
     {
       "bundle": "OperationsResources.bundle",

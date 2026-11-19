@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork cần có quyền truy cập toàn bộ đĩa để hoạt động với Thùng rác."
+      "translation": "Nimble Commander-Fork cần Quyền truy cập Toàn bộ Đĩa để hoạt động với Thùng rác."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Điều này sẽ khiến Nimble Commander-Fork yêu cầu bạn cấp quyền truy cập khi cần thiết."
+      "translation": "Điều này sẽ khiến Nimble Commander-Fork yêu cầu bạn truy cập khi cần thiết."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Vui lòng xác thực với tư cách Quản trị viên để cung cấp các quyền bổ sung cho Nimble Commander-Fork"
+      "translation": "Vui lòng xác thực với tư cách Quản trị viên để cung cấp Nimble Commander-Fork quyền bổ sung"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Vui lòng xác thực với tư cách Quản trị viên để cho phép Nimble Commander-Fork cài đặt các thành phần bổ sung."
+      "translation": "Hãy xác thực với tư cách Quản trị viên để cho phép Nimble Commander-Fork cài đặt các thành phần bổ sung."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Chỉ huy nhanh nhẹn-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Chỉ huy nhanh nhẹn-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Giới thiệu về Nimble Commander-Fork"
+      "translation": "Khoảng Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Trợ giúp Fork"
+      "translation": "Nimble Commander-Fork Trợ giúp"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Đã nhập %@ mục cho “%@”.\n\nKhởi động lại Nimble Commander-Fork để xem ngôn ngữ mới."
+      "translation": "Đã nhập %@ mục nhập cho “%@”.\n\nKhởi động lại Nimble Commander-Fork để xem ngôn ngữ mới."
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Ngôn ngữ giao diện sẽ thay đổi vào lần khởi động Nimble Commander-Fork tiếp theo."
+      "translation": "Ngôn ngữ giao diện sẽ thay đổi vào lần Nimble Commander-Fork khởi động tiếp theo."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Bạn có thể dịch giao diện của Nimble Commander-Fork sang ngôn ngữ khác hoặc sử dụng bản dịch do người khác thực hiện. Xuất ngôn ngữ hiện tại, thay thế văn bản bằng bản dịch của riêng bạn, sau đó nhập lại tệp và khởi động lại ứng dụng."
+      "translation": "Bạn có thể dịch giao diện của Nimble Commander-Fork sang ngôn ngữ khác, hoặc sử dụng bản dịch do người khác thực hiện. Xuất ngôn ngữ hiện tại, thay thế văn bản bằng bản dịch của riêng bạn, sau đó nhập lại tệp và khởi động lại ứng dụng."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Đường dẫn tệp nguồn trong tệp văn bản, bị giới hạn"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Tên tệp mục tiêu không có phần mở rộng"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Tên tập tin mục nguồn không có phần mở rộng"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Đang nén %#@items@"
+      "translation": "Đang nén %d mục"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork đã tìm kiếm cài đặt của ứng dụng Nimble Commander ban đầu nhưng không tìm thấy bất kỳ cài đặt nào."
+      "translation": "Nimble Commander-Fork đã tìm kiếm cài đặt của ứng dụng Nimble Commander gốc nhưng không tìm thấy gì cả."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Không tìm thấy cài đặt Nimble Commander"
+      "translation": "Không tìm thấy cài đặt Nimble Commander nào"
     },
     {
       "bundle": "",

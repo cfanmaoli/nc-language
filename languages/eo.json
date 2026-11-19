@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Ĉi tio estas provversio de Nimble Commander-Fork.\nPor daŭre uzi ĉi tiun programaron post la 30-taga provperiodo, vi devas aŭ aĉeti permesilon aŭ instali la pagitan version de Mac App Store.\nĈi tiu fenestro aperas nur en la prova versio."
+      "translation": "Ĉi tio estas prova versio de Nimble Commander-Fork.\nPor daŭre uzi ĉi tiun programaron post la 30-taga provperiodo, vi devas aŭ aĉeti permesilon aŭ instali la pagitan version de Mac App Store.\nĈi tiu fenestro aperas nur en la prova versio."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Bonvolu aŭtentikigi kiel Administranto por provizi Nimble Commander-Fork kromajn rajtojn"
+      "translation": "Bonvolu aŭtentikiĝi kiel Administranto por doni Nimble Commander-Fork kromajn rajtojn"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Bonvolu aŭtentikigi kiel Administranto por permesi al Nimble Commander-Fork instali pliajn komponantojn."
+      "translation": "Bonvolu aŭtentikiĝi kiel Administranto por permesi Nimble Commander-Fork instali pliajn komponantojn."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork Helpo"
+      "translation": "Nimble Commander-Fork Helpu"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Rekomencu Nimble Commander-Fork por apliki la novan lingvon?"
+      "translation": "Rekomenci Nimble Commander-Fork por apliki la novan lingvon?"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Vi povas traduki la interfacon de Nimble Commander-Fork al alia lingvo, aŭ uzi tradukon faritan de iu alia. Eksportu la nunan lingvon, anstataŭigu la tekston per via propra traduko, poste reimportu la dosieron kaj rekomencu la apon."
+      "translation": "Vi povas traduki la interfacon de Nimble Commander-Fork en alian lingvon, aŭ uzi tradukon faritan de iu alia. Eksportu la nunan lingvon, anstataŭigu la tekston per via propra traduko, poste reimportu la dosieron kaj rekomencu la apon."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Fontaj dosiervojoj en tekstdosiero, limigitaj"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Celita objekto dosiernomo sen etendaĵo"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Fonta ero dosiernomo sen etendaĵo"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Kunpremante %#@eroj@"
+      "translation": "Kunpremante %d erojn"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork serĉis la agordojn de la origina Nimble Commander-aplikaĵo sed ne trovis."
+      "translation": "Nimble Commander-Fork serĉis la agordojn de la originala Nimble Commander apo sed ne trovis."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Neniuj agordoj de Nimble Commander trovitaj"
+      "translation": "Neniuj Nimble Commander agordoj trovitaj"
     },
     {
       "bundle": "",

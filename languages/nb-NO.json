@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Dette vil få Nimble Commander-Fork til å be deg om tilgang når det er nødvendig."
+      "translation": "Dette vil føre til at Nimble Commander-Fork ber deg om tilgang når det er nødvendig."
     },
     {
       "bundle": "",
@@ -829,7 +829,7 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Vennligst autentiser som administrator for å gi Nimble Commander-Fork ytterligere rettigheter"
+      "translation": "Vennligst autentiser som administrator for å gi Nimble Commander-Fork tilleggsrettigheter"
     },
     {
       "bundle": "RoutedIOResources.bundle",
@@ -2638,7 +2638,7 @@
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork vil lage en kopi på et midlertidig sted før den kan åpnes."
+      "translation": "Nimble Commander-Fork vil opprette en kopi på et midlertidig sted før den kan åpnes."
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Kvikk kommandant-gaffel"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Kvikk kommandant-gaffel"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Om Nimble Commander-Fork"
+      "translation": "Omtrent Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Start Nimble Commander-Fork på nytt for å bruke det nye språket?"
+      "translation": "Starte Nimble Commander-Fork på nytt for å bruke det nye språket?"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Kildefilbaner i en tekstfil, begrenset"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Målelementfilnavn uten utvidelse"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Filnavn for kildeelement uten utvidelse"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Komprimering av %#@elementer@"
+      "translation": "Komprimering av %d elementer"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Importere innstillinger fra Nimble Commander?"
+      "translation": "Vil du importere innstillinger fra Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Ingen Nimble Commander-innstillinger funnet"
+      "translation": "Ingen Nimble Commander innstillinger funnet"
     },
     {
       "bundle": "",

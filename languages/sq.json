@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ka nevojë për qasje të plotë në diskun për të punuar me Trash."
+      "translation": "Nimble Commander-Fork ka nevojë për qasje të plotë në diskun për të punuar me Koshin."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Ju lutemi vërtetoni si administrator për të siguruar të drejta shtesë të Nimble Commander-Fork"
+      "translation": "Ju lutemi vërtetoni si Administrator për të dhënë Nimble Commander-Fork të drejta shtesë"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Ju lutemi vërtetoni si administrator për të lejuar që Nimble Commander-Fork të instalojë komponentë shtesë."
+      "translation": "Ju lutemi vërtetoni si Administrator për të lejuar Nimble Commander-Fork instalimin e komponentëve shtesë."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -3419,7 +3419,7 @@
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Quit Nimble Commander-Fork"
+      "translation": "Hiqni dorë nga Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,14 +3566,14 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Komandanti i shkathët-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Komandanti i shkathët-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork Help"
+      "translation": "Nimble Commander-Fork Ndihmë"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Gjuha e ndërfaqes do të ndryshojë herën tjetër që të nisë Nimble Commander-Fork."
+      "translation": "Gjuha e ndërfaqes do të ndryshojë herën tjetër kur fillon Nimble Commander-Fork."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Mund ta përktheni ndërfaqen e Nimble Commander-Fork në një gjuhë tjetër ose të përdorni një përkthim të bërë nga dikush tjetër. Eksportoni gjuhën aktuale, zëvendësoni tekstin me përkthimin tuaj, më pas importoni skedarin përsëri dhe rinisni aplikacionin."
+      "translation": "Ju mund ta përktheni ndërfaqen e Nimble Commander-Fork në një gjuhë tjetër, ose të përdorni një përkthim të bërë nga dikush tjetër. Eksportoni gjuhën aktuale, zëvendësoni tekstin me përkthimin tuaj, më pas importoni skedarin përsëri dhe rinisni aplikacionin."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "Rrugët e skedarit të burimit %10LP në një skedar teksti, të kufizuara"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Synoni emrin e skedarit të artikullit pa shtesë"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Emri i skedarit të artikullit burim pa shtesë"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Kompresimi i %#@artikujve@"
+      "translation": "Kompresimi i %d artikujve"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nuk u gjetën cilësime të Nimble Commander"
+      "translation": "Nuk u gjetën cilësime Nimble Commander"
     },
     {
       "bundle": "",

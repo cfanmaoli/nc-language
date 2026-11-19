@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Detta kommer att få Nimble Commander-Fork att be dig om åtkomst när det behövs."
+      "translation": "Detta gör att Nimble Commander-Fork ber dig om åtkomst vid behov."
     },
     {
       "bundle": "",
@@ -836,7 +836,7 @@
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Vänligen autentisera som administratör för att tillåta att Nimble Commander-Fork installerar ytterligare komponenter."
+      "translation": "Vänligen autentisera som administratör för att tillåta Nimble Commander-Fork att installera ytterligare komponenter."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -3412,7 +3412,7 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Göm Smidig Commander-Fork"
+      "translation": "Dölj Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Smidig Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Smidig Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Om Nimble Commander-Fork"
+      "translation": "Ungefär Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Gränssnittsspråket kommer att ändras nästa gång Nimble Commander-Fork startar."
+      "translation": "Gränssnittsspråket ändras nästa gång Nimble Commander-Fork startar."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Du kan översätta gränssnittet för Nimble Commander-Fork till ett annat språk, eller använda en översättning gjord av någon annan. Exportera det aktuella språket, ersätt texten med din egen översättning, importera sedan tillbaka filen och starta om appen."
+      "translation": "Du kan översätta gränssnittet för Nimble Commander-Fork till ett annat språk eller använda en översättning gjord av någon annan. Exportera det aktuella språket, ersätt texten med din egen översättning, importera sedan tillbaka filen och starta om appen."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Källfilsökvägar i en textfil, begränsad"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Målobjektets filnamn utan tillägg"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Källobjektets filnamn utan tillägg"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Komprimera %#@objekt@"
+      "translation": "Komprimerar %d objekt"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Inga inställningar för Nimble Commander hittades"
+      "translation": "Inga Nimble Commander-inställningar hittades"
     },
     {
       "bundle": "",

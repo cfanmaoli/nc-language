@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork potrzebuje pełnego dostępu do dysku, aby móc pracować z Koszem."
+      "translation": "Nimble Commander-Fork potrzebuje pełnego dostępu do dysku, aby pracować z Koszem."
     },
     {
       "bundle": "",
@@ -829,7 +829,7 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Proszę uwierzytelnić się jako administrator, aby zapewnić Nimble Commander-Fork dodatkowe uprawnienia"
+      "translation": "Proszę uwierzytelnić się jako administrator, aby zapewnić Nimble Commander-Fork dodatkowych praw"
     },
     {
       "bundle": "RoutedIOResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork skopiuje je do tymczasowej lokalizacji, zanim będzie można je otworzyć."
+      "translation": "Nimble Commander-Fork skopiuje je do lokalizacji tymczasowej, zanim będzie można je otworzyć."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork utworzy kopię w tymczasowej lokalizacji, zanim będzie można ją otworzyć."
+      "translation": "Nimble Commander-Fork utworzy kopię w lokalizacji tymczasowej, zanim będzie można ją otworzyć."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ukryj zwinnego dowódcę-widelec"
+      "translation": "Ukryj Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Opuść grę Nimble Commander-Fork"
+      "translation": "Zakończ Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Zwinny dowódca-widelec"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Zwinny dowódca-widelec"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "O Nimble Commander-Fork"
+      "translation": "Około Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Zwinny dowódca-pomoc wideł"
+      "translation": "Nimble Commander-Fork Pomoc"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Zrestartować Nimble Commander-Fork, aby zastosować nowy język?"
+      "translation": "Uruchom ponownie Nimble Commander-Fork, aby zastosować nowy język?"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Ścieżki plików źródłowych w pliku tekstowym, ograniczone"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Nazwa pliku elementu docelowego bez rozszerzenia"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Nazwa pliku elementu źródłowego bez rozszerzenia"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Kompresja %#@elementów@"
+      "translation": "Kompresja %d elementów"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork szukał ustawień oryginalnej aplikacji Nimble Commander, ale ich nie znalazł."
+      "translation": "Nimble Commander-Fork szukał ustawień oryginalnej aplikacji Nimble Commander, ale nie znalazł żadnych."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nie znaleziono ustawień Nimble Commandera"
+      "translation": "Nie znaleziono ustawień Nimble Commander"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Ustawienia znaleziono pod adresem:\n%@\n\nImportowanie zastępuje bieżące preferencje i zapisane karty; ich kopia zapasowa jest tworzona w pierwszej kolejności. Następnie Nimble Commander-Fork uruchamia się ponownie."
+      "translation": "Ustawienia znaleziono pod adresem:\n%@\n\nImportowanie zastępuje bieżące preferencje i zapisane karty; ich kopia zapasowa jest tworzona w pierwszej kolejności. Nimble Commander-Fork, następnie uruchamia się ponownie."
     },
     {
       "bundle": "",

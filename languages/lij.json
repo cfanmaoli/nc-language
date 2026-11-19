@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Grassie pe avei deuviou unna còpia registrâ de Nimble Comandante-Forca! Pe favô, avviâlo torna pe fâ de mòddo che i cangiamenti piggian effetto."
+      "translation": "Grassie pe avei deuviou unna còpia registrâ de Nimble Commander-Fork! Pe favô, avviâlo torna pe fâ de mòddo che i cangiamenti piggian effetto."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Sta chì a l'é unna verscion de preuva do Comandante-Forca agile.\nPe anâ avanti à deuviâ sto software dòppo o periodo de prova de 30 giorni, l’é neçessäio accattâ unna liçensa ò installâ a verscion à pagamento da-o Mac App Store.\nSta finestra a comparisce solo inta verscion de prova."
+      "translation": "Sta chì a l’é unna verscion de prova de Nimble Commander-Fork.\nPe anâ avanti à deuviâ sto software dòppo o periodo de prova de 30 giorni, l’é neçessäio accattâ unna liçensa ò installâ a verscion à pagamento da-o Mac App Store.\nSta finestra a comparisce solo inta verscion de prova."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "O Comandante-Forca agile o l'à de beseugno de l'Accesso completo a-o Disco pe travaggiâ co-o Trash."
+      "translation": "Nimble Commander-Fork o l'à de beseugno de l'Accesso completo a-o disco pe fonçionâ co-o cestino."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Sto fæto o faià de mòddo che o Comandante-Forca agile o t'agge domandou l'accesso quande o l'é neçessäio."
+      "translation": "Sto fæto o faià de mòddo che Nimble Commander-Fork o t’agge domandou l’accesso quande l’é neçessäio."
     },
     {
       "bundle": "",
@@ -829,7 +829,7 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Pe favô, autenticâse comme amministratô pe fornî di atri driti à Nimble Commander-Fork"
+      "translation": "Pe favô, autenticâte comme amministratô pe fornî di atri driti Nimble Commander-Fork"
     },
     {
       "bundle": "RoutedIOResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "O Commandante-Forca agile o î copiâ inte un pòsto temporaneo primma che pòssan ëse averte."
+      "translation": "Nimble Commander-Fork o î copiâ inte un pòsto temporaneo primma che pòssan ëse averte."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "O Comandante-Forca agile o creiâ unna còpia inte un pòsto temporaneo avanti ch'a pòsse ëse averta."
+      "translation": "Nimble Commander-Fork o creià unna còpia inte un pòsto temporaneo primma ch’a pòsse ëse averta."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Asconde o Comandante-Forca agile"
+      "translation": "Asconde Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Lasciâ o Comandante-Forca agile"
+      "translation": "Smette da Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Comandante-Forca agile"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Comandante-Forca agile"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "À propòxito do Comandante-Forca agile"
+      "translation": "À propòxito do Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Aggiutto do Comandante-Forca agile"
+      "translation": "Nimble Commander-Fork Aggiutto"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Intentrate %@ importæ pe “%@”.\n\nAvvia torna o Comandante-Forca agile pe vedde a neuva lengua."
+      "translation": "Importæ %@ intræ pe “%@”.\n\nAvvia torna Nimble Commander-Fork pe vedde a neuva lengua."
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Reavviâ o Comandante-Forca agile pe applicâ o neuvo lenguaggio?"
+      "translation": "Reavviâ Nimble Commander-Fork pe applicâ o neuvo lenguaggio?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "O lenguaggio de l'interfaccia o cangia a vòtta vegnua che Nimble Commander-Fork o comensa."
+      "translation": "O lenguaggio de l’interfaccia o cangia a vòtta vegnua che Nimble Commander-Fork o comensa."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "O peu tradue l'interfaccia de Nimble Commander-Fork inte unn'atra lengua ò deuviâ unna traduçion fæta da quarchedun atro. Esportâ a lengua corrente, sostituî o testo co-a vòstra pròpia traduçion, dapeu importâ torna o file e avviâ torna l'app."
+      "translation": "O peu tradue l’interfaccia de Nimble Commander-Fork inte unn’atra lengua ò deuviâ unna traduçion fæta da quarchedun atro. Esportâ a lengua corrente, sostituî o testo co-a vòstra pròpia traduçion, dapeu importâ torna o file e avviâ torna l'app."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Percorsci de file de vivagna inte un file de testo, limitæ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Nomme do file de l'elemento de destinaçion sensa estenscion"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Nomme do file de l'elemento de origine sensa estenscion"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Compriscion de %#@elementi@"
+      "translation": "Compriscion de %d elementi"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Importâ e impostaçioin da-o Comandante agile?"
+      "translation": "Importâ e impostaçioin da Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "O Comandante-Forca Agil o l'à çercou e impostaçioin de l'app originâ Commandante Agil, ma o no n'à attrovou nisciuña."
+      "translation": "Nimble Commander-Fork o l'à çercou e impostaçioin de l'app originâ Nimble Commander ma o no l'à attrovou nisciuña."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "No s'é attrovou de impostaçioin do Comandante Nimble"
+      "translation": "No gh'é stæto attrovou de impostaçioin Nimble Commander"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "E impostaçioin son stæte attrovæ à:\n%@\n\nL'importaçion a sostituisce e preferense corrente e e schede sarvæ; son sostegnui primma. Dapeu o Comandante-Forca agile o l'avvia torna."
+      "translation": "E impostaçioin son stæte attrovæ à:\n%@\n\nL'importaçion a sostituisce e preferense corrente e e schede sarvæ; son sostegnui primma. Nimble Commander-Fork dapeu o se reavvia."
     },
     {
       "bundle": "",

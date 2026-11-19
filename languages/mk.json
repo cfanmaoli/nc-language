@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Ви благодариме што користевте регистрирана копија на Nimble Commander-Fork! Рестартирајте го за промените да стапат на сила."
+      "translation": "Ви благодариме што користевте регистрирана копија од Nimble Commander-Fork! Рестартирајте го за промените да стапат на сила."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Ве молиме проверете ја автентичноста како администратор за да обезбедите дополнителни права на Nimble Commander-Fork"
+      "translation": "Ве молиме проверете ја автентичноста како администратор за да обезбедите Nimble Commander-Fork дополнителни права"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Ве молиме проверете ја автентичноста како администратор за да дозволите Nimble Commander-Fork да инсталира дополнителни компоненти."
+      "translation": "Ве молиме проверете ја автентичноста како администратор за да дозволите Nimble Commander-Fork да инсталирате дополнителни компоненти."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ќе ги копира на привремена локација пред да бидат отворени."
+      "translation": "Nimble Commander-Fork ќе ги копира на привремена локација пред да можат да се отворат."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Скриј пргав командант-форк"
+      "translation": "Сокриј Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Престанете со пргав командант-форк"
+      "translation": "Исклучете го Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Пргав командант-Вилушка"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Пргав командант-Вилушка"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "За Nimble Commander-Fork"
+      "translation": "Околу Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Пргав командант-Вилушка Помош"
+      "translation": "Nimble Commander-Fork Помош"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Увезени %@ записи за „%@“.\n\nРестартирајте го Nimble Commander-Fork за да го видите новиот јазик."
+      "translation": "Увезени %@ записи за „%@“.\n\nРестартирајте Nimble Commander-Fork за да го видите новиот јазик."
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Јазикот на интерфејсот ќе се промени следниот пат кога ќе се стартува Nimble Commander-Fork."
+      "translation": "Јазикот на интерфејсот ќе се промени следниот пат кога ќе започне Nimble Commander-Fork."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Изворни патеки на датотека во текстуална датотека, ограничени"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Име на датотека на целната ставка без екстензија"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Име на датотека на изворната ставка без екстензија"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Компресирање на %#@ставки@"
+      "translation": "Компресирање на %d ставки"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Увезете поставки од Nimble Commander?"
+      "translation": "Да се ​​увезат поставки од Nimble Commander?"
     },
     {
       "bundle": "",

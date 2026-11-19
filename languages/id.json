@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Terima kasih telah menggunakan salinan terdaftar dari Nimble Commander-Fork! Silakan mulai ulang agar perubahan diterapkan."
+      "translation": "Terima kasih telah menggunakan salinan terdaftar Nimble Commander-Fork! Silakan mulai ulang agar perubahan diterapkan."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Ini adalah versi uji coba dari Nimble Commander-Fork.\nUntuk terus menggunakan perangkat lunak ini setelah masa uji coba 30 hari, Anda harus membeli lisensi atau menginstal versi berbayar dari Mac App Store.\nJendela ini hanya muncul di versi uji coba."
+      "translation": "Ini adalah versi uji coba Nimble Commander-Fork.\nUntuk terus menggunakan perangkat lunak ini setelah masa uji coba 30 hari, Anda harus membeli lisensi atau menginstal versi berbayar dari Mac App Store.\nJendela ini hanya muncul di versi uji coba."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Ini akan menyebabkan Nimble Commander-Fork meminta Anda untuk mengakses bila diperlukan."
+      "translation": "Ini akan menyebabkan Nimble Commander-Fork meminta akses kepada Anda bila diperlukan."
     },
     {
       "bundle": "",
@@ -829,7 +829,7 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Harap autentikasi sebagai Administrator untuk memberikan hak tambahan Nimble Commander-Fork"
+      "translation": "Harap autentikasi sebagai Administrator untuk memberikan Nimble Commander-Fork hak tambahan"
     },
     {
       "bundle": "RoutedIOResources.bundle",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Sembunyikan Garpu Komandan yang Cekatan"
+      "translation": "Sembunyikan Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Keluar dari Nimble Commander-Fork"
+      "translation": "Keluar Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Garpu Komandan yang Cekatan"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Garpu Komandan yang Cekatan"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Tentang Garpu Komandan yang Cekatan"
+      "translation": "Sekitar Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Bantuan Garpu Komandan yang Cekatan"
+      "translation": "Nimble Commander-Fork Bantuan"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Jalur file sumber dalam file teks, terbatas"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Nama file item target tanpa ekstensi"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Nama file item sumber tanpa ekstensi"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Mengompresi %#@item@"
+      "translation": "Mengompresi %d item"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Tidak ditemukan pengaturan Nimble Commander"
+      "translation": "Tidak ada pengaturan Nimble Commander yang ditemukan"
     },
     {
       "bundle": "",

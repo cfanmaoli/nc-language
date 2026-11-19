@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "यो निम्बल कमाण्डर-फोर्कको परीक्षण संस्करण हो।\n30-दिनको परीक्षण अवधि पछि यो सफ्टवेयर प्रयोग जारी राख्न, तपाईंले या त इजाजतपत्र किन्नु पर्छ वा म्याक एप स्टोरबाट सशुल्क संस्करण स्थापना गर्नुपर्छ।\nयो विन्डो परीक्षण संस्करणमा मात्र देखिन्छ।"
+      "translation": "यो Nimble Commander-Fork को एक परीक्षण संस्करण हो।\n30-दिनको परीक्षण अवधि पछि यो सफ्टवेयर प्रयोग जारी राख्न, तपाईंले या त इजाजतपत्र किन्नु पर्छ वा म्याक एप स्टोरबाट सशुल्क संस्करण स्थापना गर्नुपर्छ।\nयो विन्डो परीक्षण संस्करणमा मात्र देखिन्छ।"
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "निम्बल कमाण्डर-फोर्कलाई रद्दीटोकरीसँग काम गर्न पूर्ण डिस्क पहुँच चाहिन्छ।"
+      "translation": "Nimble Commander-Fork लाई रद्दीटोकरीसँग काम गर्न पूर्ण डिस्क पहुँच चाहिन्छ।"
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "यसले निम्बल कमाण्डर-फोर्कलाई आवश्यक पर्दा पहुँचको लागि सोध्ने कारण दिन्छ।"
+      "translation": "यसले Nimble Commander-Fork ले तपाइँलाई आवश्यक पर्दा पहुँचको लागि सोध्ने कारण दिन्छ।"
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "कृपया Nimble Commander-Fork थप अधिकारहरू प्रदान गर्न प्रशासकको रूपमा प्रमाणीकरण गर्नुहोस्"
+      "translation": "Nimble Commander-Fork अतिरिक्त अधिकारहरू प्रदान गर्न कृपया प्रशासकको रूपमा प्रमाणीकरण गर्नुहोस्"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork लाई थप कम्पोनेन्टहरू स्थापना गर्न अनुमति दिन कृपया प्रशासकको रूपमा प्रमाणीकरण गर्नुहोस्।"
+      "translation": "Nimble Commander-Fork थप कम्पोनेन्टहरू स्थापना गर्न अनुमति दिन कृपया प्रशासकको रूपमा प्रमाणीकरण गर्नुहोस्।"
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "निम्बल कमाण्डर-फोर्कले तिनीहरूलाई खोल्न सक्नु अघि अस्थायी स्थानमा प्रतिलिपि गर्नेछ।"
+      "translation": "Nimble Commander-Fork ले तिनीहरूलाई खोल्न सक्नु अघि अस्थायी स्थानमा प्रतिलिपि गर्नेछ।"
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "निम्बल कमाण्डर-फोर्क लुकाउनुहोस्"
+      "translation": "लुकाउनुहोस् Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "निम्बल कमाण्डर-फोर्क छोड्नुहोस्"
+      "translation": "छोड्नुहोस् Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "निम्बल कमाण्डर-फोर्क"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "निम्बल कमाण्डर-फोर्क"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork को बारेमा"
+      "translation": "लगभग Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "निम्बल कमाण्डर-फोर्क मद्दत"
+      "translation": "Nimble Commander-Fork मद्दत"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "तपाईं निम्बल कमान्डर-फोर्कको इन्टरफेसलाई अर्को भाषामा अनुवाद गर्न सक्नुहुन्छ, वा अरू कसैले बनाएको अनुवाद प्रयोग गर्न सक्नुहुन्छ। हालको भाषा निर्यात गर्नुहोस्, पाठलाई आफ्नै अनुवादको साथ बदल्नुहोस्, त्यसपछि फाइल फिर्ता आयात गर्नुहोस् र एप पुन: सुरु गर्नुहोस्।"
+      "translation": "तपाईं Nimble Commander-Fork को इन्टरफेसलाई अर्को भाषामा अनुवाद गर्न सक्नुहुन्छ, वा अरू कसैले बनाएको अनुवाद प्रयोग गर्न सक्नुहुन्छ। हालको भाषा निर्यात गर्नुहोस्, पाठलाई आफ्नै अनुवादको साथ बदल्नुहोस्, त्यसपछि फाइल फिर्ता आयात गर्नुहोस् र एप पुन: सुरु गर्नुहोस्।"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "पाठ फाइलमा %10LP स्रोत फाइलपाथहरू, सीमित"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n विस्तार बिना लक्ष्य वस्तु फाइलनाम"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n विस्तार बिना स्रोत वस्तु फाइलनाम"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@ वस्तु@ कम्प्रेस गर्दै"
+      "translation": "%d वस्तुहरू कम्प्रेस गर्दै"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "निम्बल कमाण्डरबाट सेटिङ्हरू आयात गर्ने हो?"
+      "translation": "Nimble Commander बाट सेटिङहरू आयात गर्ने हो?"
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "कुनै निम्बल कमाण्डर सेटिङहरू फेला परेनन्"
+      "translation": "कुनै Nimble Commander सेटिङहरू फेला परेन"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "सेटिङहरूमा फेला पर्यो:\n%@\n\nआयातले हालको प्राथमिकताहरू र बचत गरिएका ट्याबहरू प्रतिस्थापन गर्दछ; तिनीहरू पहिले ब्याकअप छन्। निम्बल कमाण्डर-फोर्क त्यसपछि पुन: सुरु हुन्छ।"
+      "translation": "सेटिङहरूमा फेला पर्यो:\n%@\n\nआयातले हालको प्राथमिकताहरू र बचत गरिएका ट्याबहरू प्रतिस्थापन गर्दछ; तिनीहरू पहिले ब्याकअप छन्। Nimble Commander-Fork त्यसपछि पुन: सुरु हुन्छ।"
     },
     {
       "bundle": "",

@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "يحتاج Nimble Commander-Fork إلى الوصول الكامل إلى القرص للعمل مع سلة المهملات."
+      "translation": "Nimble Commander-Fork يحتاج إلى الوصول الكامل إلى القرص للعمل مع سلة المهملات."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "سيؤدي هذا إلى قيام Nimble Commander-Fork بمطالبتك بالوصول عند الضرورة."
+      "translation": "سيؤدي هذا إلى مطالبة Nimble Commander-Fork بالوصول عند الضرورة."
     },
     {
       "bundle": "",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "سيقوم Nimble Commander-Fork بنسخها إلى موقع مؤقت قبل أن يتم فتحها."
+      "translation": "Nimble Commander-Fork سيقوم بنسخها إلى موقع مؤقت قبل فتحها."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "سيقوم Nimble Commander-Fork بإنشاء نسخة في موقع مؤقت قبل فتحها."
+      "translation": "Nimble Commander-Fork سيقوم بإنشاء نسخة في مكان مؤقت قبل فتحها."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "إخفاء ذكيا القائد شوكة"
+      "translation": "إخفاء Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "قم بإنهاء Nimble Commander-Fork"
+      "translation": "إنهاء Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,14 +3566,14 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ذكيا قائد شوكة"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ذكيا قائد شوكة"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "مساعدة قائد شوكة ذكيا"
+      "translation": "Nimble Commander-Fork مساعدة"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "هل تريد إعادة تشغيل Nimble Commander-Fork لتطبيق اللغة الجديدة؟"
+      "translation": "هل تريد إعادة التشغيل Nimble Commander-Fork لتطبيق اللغة الجديدة؟"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP مسارات ملفات المصدر في ملف نصي، محدودة"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n اسم ملف العنصر المستهدف بدون امتداد"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n اسم ملف العنصر المصدر بدون ملحق"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "ضغط %#@items@"
+      "translation": "جارٍ ضغط %d عنصر"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "إعدادات الاستيراد من Nimble Commander؟"
+      "translation": "استيراد الإعدادات من Nimble Commander؟"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "بحث Nimble Commander-Fork عن إعدادات تطبيق Nimble Commander الأصلي لكنه لم يعثر على أي منها."
+      "translation": "Nimble Commander-Fork بحثت عن إعدادات تطبيق Nimble Commander الأصلي ولكن لم أجد أيًا منها."
     },
     {
       "bundle": "",

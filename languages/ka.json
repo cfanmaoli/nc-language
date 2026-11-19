@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ს სჭირდება სრული დისკზე წვდომა Trash-თან მუშაობისთვის."
+      "translation": "Nimble Commander-Fork სჭირდება სრული დისკზე წვდომა ნაგავთან მუშაობისთვის."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "ეს გამოიწვევს, რომ Nimble Commander-Fork მოგთხოვთ წვდომას საჭიროების შემთხვევაში."
+      "translation": "ეს გამოიწვევს Nimble Commander-Fork მოგთხოვთ წვდომას საჭიროების შემთხვევაში."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "გთხოვთ, გაიაროთ ავტორიზაცია, როგორც ადმინისტრატორი, რათა მიაწოდოთ Nimble Commander-Fork დამატებითი უფლებები"
+      "translation": "გთხოვთ, გაიაროთ ავტორიზაცია, როგორც ადმინისტრატორი, რომ მიაწოდოთ Nimble Commander-Fork დამატებითი უფლებები"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "გთხოვთ, დაადასტუროთ როგორც ადმინისტრატორი, რათა Nimble Commander-Fork-მა დამატებითი კომპონენტები დააინსტალიროს."
+      "translation": "გთხოვთ, გაიაროთ ავტორიზაცია, როგორც ადმინისტრატორი, რათა Nimble Commander-Fork დაინსტალიროთ დამატებითი კომპონენტები."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "მოხერხებული Commander-Fork დააკოპირებს მათ დროებით ადგილას, სანამ ისინი გახსნიან."
+      "translation": "Nimble Commander-Fork დააკოპირებს მათ დროებით ადგილას, სანამ ისინი გახსნიან."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "მოხერხებულობა Commander-Fork შექმნის ასლს დროებით ადგილას, სანამ ის გაიხსნება."
+      "translation": "Nimble Commander-Fork შექმნის ასლს დროებით ადგილას მის გახსნამდე."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "მოხერხებული Commander-Fork დამალე"
+      "translation": "დამალვა Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "დაანებე მოხერხებულობა Commander-Fork"
+      "translation": "გამორთეთ Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "მოხერხებული მეთაური-ჩანგალი"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "მოხერხებული მეთაური-ჩანგალი"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "მოხერხებულობა Commander-Fork-ის შესახებ"
+      "translation": "დაახლოებით Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "მოხერხებულობა Commander-Fork დახმარება"
+      "translation": "Nimble Commander-Fork დახმარება"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "ინტერფეისის ენა შეიცვლება შემდეგ ჯერზე, როდესაც Nimble Commander-Fork დაიწყება."
+      "translation": "ინტერფეისის ენა შეიცვლება შემდეგ ჯერზე, როდესაც დაიწყება Nimble Commander-Fork."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "შეგიძლიათ თარგმნოთ Nimble Commander-Fork-ის ინტერფეისი სხვა ენაზე, ან გამოიყენოთ სხვისი თარგმანი. მიმდინარე ენის ექსპორტი, ტექსტი შეცვალეთ თქვენი საკუთარი თარგმანით, შემდეგ დააბრუნეთ ფაილი და გადატვირთეთ აპლიკაცია."
+      "translation": "თქვენ შეგიძლიათ თარგმნოთ Nimble Commander-Fork-ის ინტერფეისი სხვა ენაზე, ან გამოიყენოთ სხვისი თარგმანი. მიმდინარე ენის ექსპორტი, ტექსტი შეცვალეთ თქვენი საკუთარი თარგმანით, შემდეგ დააბრუნეთ ფაილი და გადატვირთეთ აპლიკაცია."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP წყაროს ფაილის ბილიკები ტექსტურ ფაილში, შეზღუდული"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n სამიზნე ელემენტის ფაილის სახელი გაფართოების გარეშე"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n წყაროს ელემენტის ფაილის სახელი გაფართოების გარეშე"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@ ელემენტის@ შეკუმშვა"
+      "translation": "%d ელემენტის შეკუმშვა"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "გსურთ პარამეტრების იმპორტი Nimble Commander-იდან?"
+      "translation": "გსურთ პარამეტრების იმპორტი Nimble Commander-დან?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-მა მოძებნა ორიგინალური Nimble Commander აპლიკაციის პარამეტრები, მაგრამ ვერ იპოვა."
+      "translation": "Nimble Commander-Fork ეძებდა ორიგინალური Nimble Commander აპის პარამეტრებს, მაგრამ ვერ იპოვა."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nimble Commander-ის პარამეტრები ვერ მოიძებნა"
+      "translation": "Nimble Commander პარამეტრები ვერ მოიძებნა"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "პარამეტრები ნაპოვნია:\n%@\n\nიმპორტი ცვლის მიმდინარე პრეფერენციებსა და შენახულ ჩანართებს; ისინი ჯერ სარეზერვოა. მოხერხებულობა Commander-Fork შემდეგ გადაიტვირთება."
+      "translation": "პარამეტრები ნაპოვნია:\n%@\n\nიმპორტი ცვლის მიმდინარე პრეფერენციებსა და შენახულ ჩანართებს; ისინი ჯერ სარეზერვოა. Nimble Commander-Fork შემდეგ გადაიტვირთება."
     },
     {
       "bundle": "",

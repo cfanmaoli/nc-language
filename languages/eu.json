@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Eskerrik asko Nimble Commander-Fork-en erregistratutako kopia erabiltzeagatik! Mesedez, berrabiarazi aldaketak indarrean egon daitezen."
+      "translation": "Eskerrik asko Nimble Commander-Fork-ren kopia erregistratua erabiltzeagatik! Mesedez, berrabiarazi aldaketak indarrean egon daitezen."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-en probako bertsioa da.\n30 eguneko proba-aldiaren ondoren software hau erabiltzen jarraitzeko, lizentzia bat erosi edo ordainpeko bertsioa Mac App Store-tik instalatu behar duzu.\nLeiho hau probako bertsioan bakarrik agertzen da."
+      "translation": "Hau Nimble Commander-Fork-ren probako bertsioa da.\n30 eguneko proba-aldiaren ondoren software hau erabiltzen jarraitzeko, lizentzia bat erosi edo ordainpeko bertsioa Mac App Store-tik instalatu behar duzu.\nLeiho hau probako bertsioan bakarrik agertzen da."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ek Diskorako Sarbide osoa behar du Zaborrontziarekin lan egiteko."
+      "translation": "Nimble Commander-Fork Diskorako Sarbide osoa behar du Zaborrontziarekin lan egiteko."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Honek Nimble Commander-Fork-ek sarbidea eskatuko dizu beharrezkoa denean."
+      "translation": "Honek Nimble Commander-Fork-k sarbidea eskatuko dizu beharrezkoa denean."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Mesedez, autentifikatu Administratzaile gisa Nimble Commander-Fork-i eskubide gehigarriak emateko"
+      "translation": "Mesedez, autentifikatu Administratzaile gisa Nimble Commander-Fork eskubide gehiago emateko"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Mesedez, autentifikatu Administratzaile gisa Nimble Commander-Fork-ek osagai osagarriak instalatzeko."
+      "translation": "Mesedez, autentifikatu Administratzaile gisa Nimble Commander-Fork osagai osagarriak instalatzeko."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ek aldi baterako kokapen batera kopiatuko ditu ireki aurretik."
+      "translation": "Nimble Commander-Fork aldi baterako kokapen batera kopiatuko ditu ireki aurretik."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ek kopia bat sortuko du aldi baterako kokapen batean ireki aurretik."
+      "translation": "Nimble Commander-Fork kopia bat sortuko du aldi baterako kokapen batean ireki aurretik."
     },
     {
       "bundle": "",
@@ -3580,7 +3580,7 @@
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork-i buruz"
+      "translation": "Nimble Commander-Fork buruz"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Nimble Commander-Fork-en interfazea beste hizkuntza batera itzul dezakezu edo beste norbaitek egindako itzulpena erabil dezakezu. Esportatu uneko hizkuntza, ordezkatu testua zure itzulpenarekin, ondoren inportatu fitxategia berriro eta berrabiarazi aplikazioa."
+      "translation": "Nimble Commander-Fork-ren interfazea beste hizkuntza batera itzul dezakezu edo beste norbaitek egindako itzulpena erabil dezakezu. Esportatu uneko hizkuntza, ordezkatu testua zure itzulpenarekin, ondoren inportatu fitxategia berriro eta berrabiarazi aplikazioa."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Iturburu-fitxategien bideak testu-fitxategi batean, mugatuak"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Helburuko elementuaren fitxategi-izena luzapenik gabe"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Iturburu-elementuaren fitxategi-izena luzapenik gabe"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@elementu@ konprimitzen"
+      "translation": "%d elementuak konprimitzen"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Nimble Commander-etik ezarpenak inportatu nahi dituzu?"
+      "translation": "Nimble Commander-tik ezarpenak inportatu?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ek jatorrizko Nimble Commander aplikazioaren ezarpenak bilatu zituen, baina ez zuen ezer aurkitu."
+      "translation": "Nimble Commander-Fork jatorrizko Nimble Commander aplikazioaren ezarpenak bilatu ditu, baina ez du aurkitu."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Ez da aurkitu Nimble Commander ezarpenik"
+      "translation": "Ez da Nimble Commander ezarpenik aurkitu"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Ezarpenak helbidean aurkitu dira:\n%@\n\nInportatzeak uneko hobespenak eta gordetako fitxak ordezkatzen ditu; babeskopia egiten dute lehenik. Nimble Commander-Fork berrabiarazten da."
+      "translation": "Ezarpenak helbidean aurkitu dira:\n%@\n\nInportatzeak uneko hobespenak eta gordetako fitxak ordezkatzen ditu; babeskopia egiten dute lehenik. Nimble Commander-Fork gero berrabiaraziko da."
     },
     {
       "bundle": "",

@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ին անհրաժեշտ է Full Disk Access Աղբարկղի հետ աշխատելու համար:"
+      "translation": "Nimble Commander-Fork Աղբարկղի հետ աշխատելու համար սկավառակի ամբողջական հասանելիություն է պետք:"
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Սա կհանգեցնի, որ Nimble Commander-Fork-ը ձեզանից անհրաժեշտության դեպքում մուտքի իրավունք կխնդրի:"
+      "translation": "Սա կհանգեցնի, որ Nimble Commander-Fork անհրաժեշտության դեպքում ձեզանից մուտք կխնդրի:"
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Խնդրում ենք վավերացնել որպես ադմինիստրատոր՝ Nimble Commander-Fork-ի լրացուցիչ իրավունքներ տրամադրելու համար"
+      "translation": "Խնդրում ենք նույնականացնել որպես ադմինիստրատոր՝ Nimble Commander-Fork լրացուցիչ իրավունքներ տրամադրելու համար"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Խնդրում ենք նույնականացնել որպես ադմինիստրատոր՝ թույլ տալու Nimble Commander-Fork-ին տեղադրել լրացուցիչ բաղադրիչներ:"
+      "translation": "Խնդրում ենք նույնականացնել որպես ադմինիստրատոր՝ թույլատրելու համար Nimble Commander-Fork տեղադրել լրացուցիչ բաղադրիչներ:"
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ը դրանք պատճենելու է ժամանակավոր վայրում՝ նախքան դրանք բացելը:"
+      "translation": "Nimble Commander-Fork դրանք պատճենելու է ժամանակավոր վայրում, նախքան դրանք բացելը:"
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ը կստեղծի պատճենը ժամանակավոր վայրում, նախքան այն բացելը:"
+      "translation": "Nimble Commander-Fork կստեղծի պատճենը ժամանակավոր վայրում, նախքան այն բացելը:"
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Թաքցնել ճարպիկ հրամանատար-պատառաքաղը"
+      "translation": "Թաքցնել Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Հրաժարվեք ճարպիկ հրամանատար-Fork-ից"
+      "translation": "Դուրս գալ Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ճարպիկ հրամանատար-պատառաքաղ"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ճարպիկ հրամանատար-պատառաքաղ"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork-ի մասին"
+      "translation": "Մոտ Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Ճարպիկ հրամանատար-պատառաքաղ Օգնություն"
+      "translation": "Nimble Commander-Fork Օգնություն"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Ներմուծված %@ գրառում «%@»-ի համար։\n\nՆոր լեզուն տեսնելու համար վերագործարկեք Nimble Commander-Fork-ը:"
+      "translation": "Ներմուծված %@ գրառում «%@»-ի համար։\n\nՆոր լեզուն տեսնելու համար վերագործարկեք Nimble Commander-Fork:"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Վերագործարկե՞լ Nimble Commander-Fork-ը՝ նոր լեզուն կիրառելու համար:"
+      "translation": "Վերագործարկե՞լ Nimble Commander-Fork նոր լեզուն կիրառելու համար:"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Ինտերֆեյսի լեզուն կփոխվի հաջորդ անգամ, երբ գործարկվի Nimble Commander-Fork-ը:"
+      "translation": "Ինտերֆեյսի լեզուն կփոխվի հաջորդ անգամ, երբ Nimble Commander-Fork սկսվի:"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Դուք կարող եք թարգմանել Nimble Commander-Fork-ի ինտերֆեյսը այլ լեզվով կամ օգտագործել մեկ ուրիշի կողմից կատարված թարգմանությունը: Արտահանեք ընթացիկ լեզուն, փոխարինեք տեքստը ձեր սեփական թարգմանությամբ, այնուհետև ներմուծեք ֆայլը և վերագործարկեք հավելվածը:"
+      "translation": "Դուք կարող եք թարգմանել Nimble Commander-Fork-ի ինտերֆեյսը մեկ այլ լեզվով կամ օգտագործել ուրիշի կողմից կատարված թարգմանությունը: Արտահանեք ընթացիկ լեզուն, փոխարինեք տեքստը ձեր սեփական թարգմանությամբ, այնուհետև ներմուծեք ֆայլը և վերագործարկեք հավելվածը:"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Աղբյուրի ֆայլուղիները տեքստային ֆայլում, սահմանափակ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Թիրախային նյութի ֆայլի անունը առանց ընդլայնման"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Աղբյուրի տարրի ֆայլի անունը առանց ընդլայնման"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@ տարրերի սեղմում"
+      "translation": "%d իրերի սեղմում"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ը փնտրել է սկզբնական Nimble Commander հավելվածի կարգավորումները, բայց չի գտել:"
+      "translation": "Nimble Commander-Fork փնտրել է բնօրինակ Nimble Commander հավելվածի կարգավորումները, բայց չի գտել:"
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nimble Commander-ի կարգավորումներ չեն գտնվել"
+      "translation": "Nimble Commander կարգավորումներ չեն գտնվել"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Կարգավորումները գտնվել են՝\n%@\n\nՆերմուծումը փոխարինում է ընթացիկ նախապատվությունները և պահպանված ներդիրները. դրանք առաջին հերթին կրկնօրինակվում են: Nimble Commander-Fork-ն այնուհետև վերագործարկվում է:"
+      "translation": "Կարգավորումները գտնվել են՝\n%@\n\nՆերմուծումը փոխարինում է ընթացիկ նախապատվությունները և պահպանված ներդիրները. դրանք առաջին հերթին կրկնօրինակվում են: Nimble Commander-Fork այնուհետև վերագործարկվում է:"
     },
     {
       "bundle": "",

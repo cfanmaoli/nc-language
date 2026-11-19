@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork potrebuje popoln dostop do diska za delo s smetnjakom."
+      "translation": "Nimble Commander-Fork potrebuje polni diskovni dostop za delo s smetnjakom."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Tako vas bo Nimble Commander-Fork po potrebi prosil za dostop."
+      "translation": "To bo povzročilo, da vas bo Nimble Commander-Fork prosil za dostop, ko bo to potrebno."
     },
     {
       "bundle": "",
@@ -829,7 +829,7 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Preverite pristnost kot skrbnik, da Nimble Commander-Fork pridobite dodatne pravice"
+      "translation": "Prosimo, preverite pristnost kot skrbnik, da zagotovite Nimble Commander-Fork dodatnih pravic"
     },
     {
       "bundle": "RoutedIOResources.bundle",
@@ -3419,7 +3419,7 @@
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Zapri Nimble Commander-Fork"
+      "translation": "Zapustite Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3580,7 +3580,7 @@
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "O Nimble Commander-Fork"
+      "translation": "Približno Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Pomoč Nimble Commander-Fork"
+      "translation": "Nimble Commander-Fork Pomoč"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Uvoženih %@ vnosov za “%@”.\n\nZnova zaženite Nimble Commander-Fork, da vidite nov jezik."
+      "translation": "Uvoženih %@ vnosov za “%@”.\n\nZa ogled novega jezika znova zaženite Nimble Commander-Fork."
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Jezik vmesnika se bo spremenil ob naslednjem zagonu Nimble Commander-Fork."
+      "translation": "Jezik vmesnika se spremeni ob naslednjem zagonu Nimble Commander-Fork."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Izvorne poti datoteke v besedilni datoteki, omejene"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Ime datoteke ciljne postavke brez končnice"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Ime datoteke izvornega elementa brez končnice"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Stiskanje %#@predmetov@"
+      "translation": "Stiskanje %d elementov"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Uvoziti nastavitve iz Nimble Commanderja?"
+      "translation": "Uvozi nastavitve iz Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nastavitev programa Nimble Commander ni bilo mogoče najti"
+      "translation": "Ni najdenih nastavitev Nimble Commander"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Nastavitve so bile najdene na:\n%@\n\nUvoz nadomesti trenutne nastavitve in shranjene zavihke; najprej se varnostno kopirajo. Nimble Commander-Fork se nato znova zažene."
+      "translation": "Nastavitve so bile najdene na:\n%@\n\nUvoz nadomesti trenutne nastavitve in shranjene zavihke; najprej se varnostno kopirajo. Nimble Commander-Fork nato se znova zažene."
     },
     {
       "bundle": "",

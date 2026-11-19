@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "చురుకైన కమాండర్-ఫోర్క్ యొక్క నమోదిత కాపీని ఉపయోగించినందుకు ధన్యవాదాలు! మార్పులు అమలులోకి రావడానికి దయచేసి దీన్ని పునఃప్రారంభించండి."
+      "translation": "Nimble Commander-Fork యొక్క నమోదిత కాపీని ఉపయోగించినందుకు ధన్యవాదాలు! మార్పులు అమలులోకి రావడానికి దయచేసి దీన్ని పునఃప్రారంభించండి."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "ఇది నింబుల్ కమాండర్-ఫోర్క్ యొక్క ట్రయల్ వెర్షన్.\n30-రోజుల ట్రయల్ వ్యవధి తర్వాత ఈ సాఫ్ట్‌వేర్‌ను ఉపయోగించడం కొనసాగించడానికి, మీరు Mac App Store నుండి లైసెన్స్‌ని కొనుగోలు చేయాలి లేదా చెల్లింపు సంస్కరణను ఇన్‌స్టాల్ చేయాలి.\nఈ విండో ట్రయల్ వెర్షన్‌లో మాత్రమే కనిపిస్తుంది."
+      "translation": "ఇది Nimble Commander-Fork యొక్క ట్రయల్ వెర్షన్.\n30-రోజుల ట్రయల్ వ్యవధి తర్వాత ఈ సాఫ్ట్‌వేర్‌ను ఉపయోగించడం కొనసాగించడానికి, మీరు Mac App Store నుండి లైసెన్స్‌ని కొనుగోలు చేయాలి లేదా చెల్లింపు సంస్కరణను ఇన్‌స్టాల్ చేయాలి.\nఈ విండో ట్రయల్ వెర్షన్‌లో మాత్రమే కనిపిస్తుంది."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "నింబుల్ కమాండర్-ఫోర్క్ ట్రాష్‌తో పని చేయడానికి పూర్తి డిస్క్ యాక్సెస్ అవసరం."
+      "translation": "ట్రాష్‌తో పని చేయడానికి Nimble Commander-Forkకి పూర్తి డిస్క్ యాక్సెస్ అవసరం."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "ఇది అవసరమైనప్పుడు చురుకైన కమాండర్-ఫోర్క్ మిమ్మల్ని యాక్సెస్ కోసం అడుగుతుంది."
+      "translation": "ఇది Nimble Commander-Fork అవసరమైనప్పుడు యాక్సెస్ కోసం మిమ్మల్ని అడుగుతుంది."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "నింబుల్ కమాండర్-ఫోర్క్ అదనపు హక్కులను అందించడానికి దయచేసి నిర్వాహకునిగా ప్రమాణీకరించండి"
+      "translation": "దయచేసి Nimble Commander-Fork అదనపు హక్కులను అందించడానికి నిర్వాహకునిగా ప్రమాణీకరించండి"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "నింబుల్ కమాండర్-ఫోర్క్ అదనపు భాగాలను ఇన్‌స్టాల్ చేయడానికి అనుమతించడానికి దయచేసి నిర్వాహకునిగా ప్రమాణీకరించండి."
+      "translation": "దయచేసి Nimble Commander-Fork అదనపు భాగాలను ఇన్‌స్టాల్ చేయడానికి అనుమతించడానికి నిర్వాహకునిగా ప్రమాణీకరించండి."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "అతి చురుకైన కమాండర్-ఫోర్క్ వాటిని తెరవడానికి ముందు వాటిని తాత్కాలిక స్థానానికి కాపీ చేస్తుంది."
+      "translation": "Nimble Commander-Fork వాటిని తెరవడానికి ముందు వాటిని తాత్కాలిక స్థానానికి కాపీ చేస్తుంది."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "అతి చురుకైన కమాండర్-ఫోర్క్ ఒక కాపీని తెరవడానికి ముందు తాత్కాలిక ప్రదేశంలో సృష్టిస్తుంది."
+      "translation": "Nimble Commander-Fork తెరవబడటానికి ముందు తాత్కాలిక ప్రదేశంలో కాపీని సృష్టిస్తుంది."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "అతి చురుకైన కమాండర్-ఫోర్క్‌ను దాచండి"
+      "translation": "దాచు Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "క్విట్ అతి చురుకైన కమాండర్-ఫోర్క్"
+      "translation": "నిష్క్రమించు Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "అతి చురుకైన కమాండర్-ఫోర్క్"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "అతి చురుకైన కమాండర్-ఫోర్క్"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "అతి చురుకైన కమాండర్-ఫోర్క్ గురించి"
+      "translation": "సుమారు Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "అతి చురుకైన కమాండర్-ఫోర్క్ సహాయం"
+      "translation": "Nimble Commander-Fork సహాయం"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "“%@” కోసం %@ ఎంట్రీలు దిగుమతి చేయబడ్డాయి.\n\nకొత్త భాషను చూడటానికి అతి చురుకైన కమాండర్-ఫోర్క్‌ని పునఃప్రారంభించండి."
+      "translation": "“%@” కోసం %@ ఎంట్రీలు దిగుమతి చేయబడ్డాయి.\n\nకొత్త భాషను చూడటానికి Nimble Commander-Forkని పునఃప్రారంభించండి."
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "కొత్త భాషను వర్తింపజేయడానికి నింబుల్ కమాండర్-ఫోర్క్‌ని పునఃప్రారంభించాలా?"
+      "translation": "కొత్త భాషను వర్తింపజేయడానికి Nimble Commander-Forkని పునఃప్రారంభించాలా?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "తదుపరిసారి అతి చురుకైన కమాండర్-ఫోర్క్ ప్రారంభమైనప్పుడు ఇంటర్‌ఫేస్ భాష మారుతుంది."
+      "translation": "తదుపరిసారి Nimble Commander-Fork ప్రారంభమైనప్పుడు ఇంటర్‌ఫేస్ భాష మారుతుంది."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "మీరు నింబుల్ కమాండర్-ఫోర్క్ యొక్క ఇంటర్‌ఫేస్‌ను మరొక భాషలోకి అనువదించవచ్చు లేదా మరొకరు చేసిన అనువాదాన్ని ఉపయోగించవచ్చు. ప్రస్తుత భాషను ఎగుమతి చేయండి, వచనాన్ని మీ స్వంత అనువాదంతో భర్తీ చేయండి, ఆపై ఫైల్‌ను తిరిగి దిగుమతి చేయండి మరియు యాప్‌ను పునఃప్రారంభించండి."
+      "translation": "మీరు Nimble Commander-Fork యొక్క ఇంటర్‌ఫేస్‌ను మరొక భాషలోకి అనువదించవచ్చు లేదా మరొకరు చేసిన అనువాదాన్ని ఉపయోగించవచ్చు. ప్రస్తుత భాషను ఎగుమతి చేయండి, వచనాన్ని మీ స్వంత అనువాదంతో భర్తీ చేయండి, ఆపై ఫైల్‌ను తిరిగి దిగుమతి చేయండి మరియు యాప్‌ను పునఃప్రారంభించండి."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "టెక్స్ట్ ఫైల్‌లో %10LP సోర్స్ ఫైల్‌పాత్‌లు, పరిమితం"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n పొడిగింపు లేకుండా టార్గెట్ ఐటెమ్ ఫైల్ పేరు"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n పొడిగింపు లేకుండా మూల అంశం ఫైల్ పేరు"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@అంశాలను కుదించడం@"
+      "translation": "%d అంశాలను కుదించడం"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "నింబుల్ కమాండర్ నుండి సెట్టింగ్‌లను దిగుమతి చేయాలా?"
+      "translation": "Nimble Commander నుండి సెట్టింగ్‌లను దిగుమతి చేయాలా?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "నింబుల్ కమాండర్-ఫోర్క్ ఒరిజినల్ నింబుల్ కమాండర్ యాప్ సెట్టింగ్‌ల కోసం వెతికారు కానీ ఏదీ కనుగొనబడలేదు."
+      "translation": "Nimble Commander-Fork అసలు Nimble Commander యాప్ సెట్టింగ్‌ల కోసం వెతికారు కానీ ఏదీ కనుగొనబడలేదు."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "అతి చురుకైన కమాండర్ సెట్టింగ్‌లు ఏవీ కనుగొనబడలేదు"
+      "translation": "Nimble Commander సెట్టింగ్‌లు ఏవీ కనుగొనబడలేదు"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "సెట్టింగ్‌లు ఇక్కడ కనుగొనబడ్డాయి:\n%@\n\nదిగుమతి చేయడం ప్రస్తుత ప్రాధాన్యతలను మరియు సేవ్ చేసిన ట్యాబ్‌లను భర్తీ చేస్తుంది; అవి మొదట బ్యాకప్ చేయబడతాయి. అతి చురుకైన కమాండర్-ఫోర్క్ తర్వాత పునఃప్రారంభించబడుతుంది."
+      "translation": "సెట్టింగ్‌లు ఇక్కడ కనుగొనబడ్డాయి:\n%@\n\nదిగుమతి చేయడం ప్రస్తుత ప్రాధాన్యతలను మరియు సేవ్ చేసిన ట్యాబ్‌లను భర్తీ చేస్తుంది; అవి మొదట బ్యాకప్ చేయబడతాయి. Nimble Commander-Fork తర్వాత పునఃప్రారంభించబడుతుంది."
     },
     {
       "bundle": "",

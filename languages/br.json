@@ -836,7 +836,7 @@
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Gwiriekait evel merour evit ma c'hallfe Nimble Commander-Fork staliañ elfennoù ouzhpenn."
+      "translation": "Mar plij, gwiriekait evel merour evit ma c'hallfe Nimble Commander-Fork staliañ elfennoù ouzhpenn."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Hentoù restr tarzh en ur restr testenn, bevennet"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Anv restr an elfenn tarzh hep astenn"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Anv restr an elfenn orin hep astenn"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Gwaskañ %#@elfennoù@"
+      "translation": "Gwaskañ %d elfenn"
     },
     {
       "bundle": "OperationsResources.bundle",

@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ၏ မှတ်ပုံတင်မိတ္တူကို အသုံးပြုသည့်အတွက် ကျေးဇူးတင်ပါသည်။ အပြောင်းအလဲများ အကျိုးသက်ရောက်စေရန်အတွက် ၎င်းကို ပြန်လည်စတင်ပါ။"
+      "translation": "Nimble Commander-Fork၏ မှတ်ပုံတင်မိတ္တူကို အသုံးပြုသည့်အတွက် ကျေးဇူးတင်ပါသည်။ အပြောင်းအလဲများ အကျိုးသက်ရောက်စေရန်အတွက် ၎င်းကို ပြန်လည်စတင်ပါ။"
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork သည် အမှိုက်ပုံးနှင့် အလုပ်လုပ်ရန် Full Disk Access လိုအပ်ပါသည်။"
+      "translation": "Nimble Commander-Fork အမှိုက်ပုံးနှင့် အလုပ်လုပ်ရန် Full Disk Access လိုအပ်ပါသည်။"
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "၎င်းသည် Nimble Commander-Fork ကို လိုအပ်သည့်အခါ ဝင်ရောက်ခွင့်တောင်းစေမည်ဖြစ်သည်။"
+      "translation": "၎င်းသည် Nimble Commander-Fork လိုအပ်သည့်အခါ သင့်အား ဝင်ရောက်ခွင့်တောင်းစေမည်ဖြစ်သည်။"
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ၏ နောက်ထပ်အခွင့်အရေးများကို ပေးဆောင်ရန် စီမံခန့်ခွဲသူအဖြစ် စစ်မှန်ကြောင်း သက်သေပြပါ။"
+      "translation": "Nimble Commander-Fork နောက်ထပ်အခွင့်အရေးများပေးဆောင်ရန် စီမံခန့်ခွဲသူအဖြစ် စစ်မှန်ကြောင်းအထောက်အထားပြပါ။"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork အပိုအစိတ်အပိုင်းများကို ထည့်သွင်းခွင့်ပြုရန် အုပ်ချုပ်ရေးမှူးအဖြစ် စစ်မှန်ကြောင်းအထောက်အထားပြပါ။"
+      "translation": "Nimble Commander-Fork အပိုအစိတ်အပိုင်းများကို ထည့်သွင်းခွင့်ပြုရန် စီမံခန့်ခွဲသူအဖြစ် စစ်မှန်ကြောင်းအထောက်အထားပြပါ။"
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork သည် ၎င်းတို့ကို မဖွင့်မီ ယာယီတည်နေရာသို့ ကူးယူမည်ဖြစ်သည်။"
+      "translation": "Nimble Commander-Fork ၎င်းတို့ကို မဖွင့်မီ ယာယီတည်နေရာသို့ ကူးယူမည်ဖြစ်သည်။"
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork သည် ၎င်းကိုမဖွင့်မီ ယာယီတည်နေရာတစ်ခုတွင် မိတ္တူဖန်တီးမည်ဖြစ်သည်။"
+      "translation": "Nimble Commander-Fork မဖွင့်မီ ယာယီတည်နေရာတွင် မိတ္တူတစ်ခုကို ဖန်တီးပါမည်။"
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork ကို ဝှက်ပါ။"
+      "translation": "Nimble Commander-Fork ဝှက်ထားပါ။"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork မှထွက်ပါ။"
+      "translation": "Nimble Commander-Forkထွက်လိုက်ပါ။"
     },
     {
       "bundle": "",
@@ -3580,7 +3580,7 @@
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork အကြောင်း"
+      "translation": "Nimble Commander-Forkအကြောင်း"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "“%@” အတွက် %@ ထည့်သွင်းမှုများကို တင်သွင်းခဲ့သည်။\n\nဘာသာစကားအသစ်ကိုကြည့်ရန် Nimble Commander-Fork ကို ပြန်လည်စတင်ပါ။"
+      "translation": "“%@” အတွက် %@ entries များကို တင်သွင်းခဲ့သည်။\n\nဘာသာစကားအသစ်ကိုကြည့်ရန် Nimble Commander-Forkကို ပြန်လည်စတင်ပါ။"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "ဘာသာစကားအသစ်ကိုအသုံးပြုရန် Nimble Commander-Fork ကို ပြန်လည်စတင်မလား။"
+      "translation": "ဘာသာစကားအသစ်ကိုအသုံးပြုရန် Nimble Commander-Forkကို ပြန်လည်စတင်လိုပါသလား။"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Nimble Commander-Fork စတင်သည့်အချိန်၌ အင်တာဖေ့စ်ဘာသာစကားသည် ပြောင်းလဲသွားပါမည်။"
+      "translation": "Nimble Commander-Fork စတင်သောအခါတွင် အင်တာဖေ့စ်ဘာသာစကားသည် ပြောင်းလဲသွားပါမည်။"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Nimble Commander-Fork ၏ အင်တာဖေ့စ်ကို အခြားဘာသာစကားသို့ ဘာသာပြန်ဆိုနိုင်သည်၊ သို့မဟုတ် အခြားသူတစ်ဦးမှပြုလုပ်သော ဘာသာပြန်ချက်ကို အသုံးပြုနိုင်သည်။ လက်ရှိဘာသာစကားကို ထုတ်ယူပါ၊ စာသားကို သင့်ကိုယ်ပိုင်ဘာသာပြန်ဖြင့် အစားထိုးပါ၊ ထို့နောက် ဖိုင်ကို ပြန်လည်တင်သွင်းပြီး အက်ပ်ကို ပြန်လည်စတင်ပါ။"
+      "translation": "Nimble Commander-Fork ၏ အင်တာဖေ့စ်ကို အခြားဘာသာစကားသို့ ဘာသာပြန်ဆိုနိုင်သည်၊ သို့မဟုတ် အခြားသူတစ်ဦးမှပြုလုပ်သော ဘာသာပြန်ကို အသုံးပြုနိုင်သည်။ လက်ရှိဘာသာစကားကို ထုတ်ယူပါ၊ စာသားကို သင့်ကိုယ်ပိုင်ဘာသာပြန်ဖြင့် အစားထိုးပါ၊ ထို့နောက် ဖိုင်ကို ပြန်လည်တင်သွင်းပြီး အက်ပ်ကို ပြန်လည်စတင်ပါ။"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "စာသားဖိုင်တစ်ခုရှိ %10LP အရင်းအမြစ်ဖိုင်လမ်းကြောင်းများကို ကန့်သတ်ထားသည်။"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n တိုးချဲ့မှုမပါဘဲ ဖိုင်အမည်ကို ပစ်မှတ်ထားပါ။"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n တိုးချဲ့မှုမပါဘဲ အရင်းအမြစ် ဖိုင်အမည်"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@items@ ကို ချုံ့နေသည်"
+      "translation": "%d အရာများကို ချုံ့ခြင်း။"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Nimble Commander မှ ဆက်တင်များကို တင်သွင်းမလား။"
+      "translation": "Nimble Commanderမှ ဆက်တင်များကို တင်သွင်းမလား။"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork သည် မူရင်း Nimble Commander အက်ပ်၏ ဆက်တင်များကို ရှာဖွေသော်လည်း မတွေ့ပါ။"
+      "translation": "Nimble Commander-Fork မူရင်း Nimble Commander အက်ပ်၏ ဆက်တင်များကို ရှာဖွေသော်လည်း မတွေ့ပါ။"
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nimble Commander ဆက်တင်များကို ရှာမတွေ့ပါ။"
+      "translation": "Nimble Commander ဆက်တင်များ မတွေ့ပါ။"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "ဆက်တင်များကို တွေ့ရှိခဲ့သည်-\n%@\n\nတင်သွင်းခြင်းသည် လက်ရှိစိတ်ကြိုက်များနှင့် သိမ်းဆည်းထားသော တက်ဘ်များကို အစားထိုးသည်။ ၎င်းတို့ကို ဦးစွာ back up လုပ်ထားသည်။ Nimble Commander-Fork ထို့နောက် ပြန်လည်စတင်သည်။"
+      "translation": "ဆက်တင်များကို တွေ့ရှိခဲ့သည်-\n%@\n\nတင်သွင်းခြင်းသည် လက်ရှိစိတ်ကြိုက်များနှင့် သိမ်းဆည်းထားသော တက်ဘ်များကို အစားထိုးသည်။ ၎င်းတို့ကို ဦးစွာ back up လုပ်ထားသည်။ Nimble Commander-Fork ထို့နောက် ပြန်လည်စတင်ပါ။"
     },
     {
       "bundle": "",

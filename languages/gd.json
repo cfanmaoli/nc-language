@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Feumaidh Nimble Commander-Fork làn ruigsinneachd diosc gus obrachadh leis an sgudal."
+      "translation": "Feumaidh Nimble Commander-Fork ruigsinneachd làn diosc gus obrachadh leis an sgudal."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Bheir seo air adhart Nimble Commander-Fork iarraidh ort faighinn a-steach nuair a bhios feum air."
+      "translation": "Bheir seo air Nimble Commander-Fork iarraidh ort inntrigeadh nuair a bhios feum air."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Feuch an dearbhaich thu mar Rianaire gus còraichean a bharrachd a thoirt do Nimble Commander-Fork"
+      "translation": "Feuch an dearbhaich thu mar Rianaire gus Nimble Commander-Fork còraichean a bharrachd a thoirt seachad"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Feuch an dearbhaich thu mar Rianaire gus leigeil le Nimble Commander-Fork co-phàirtean a bharrachd a chuir a-steach."
+      "translation": "Feuch an dearbhaich thu mar Rianaire gus leigeil le Nimble Commander-Fork co-phàirtean a bharrachd a stàladh."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nì Nimble Commander-Fork lethbhreac dhiubh gu àite sealach mus gabh am fosgladh."
+      "translation": "Cuiridh Nimble Commander-Fork lethbhreac dhiubh gu àite sealach mus gabh am fosgladh."
     },
     {
       "bundle": "",
@@ -3419,7 +3419,7 @@
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Fàg Ceannard-Fork Nimble"
+      "translation": "Leig às Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ceannard siùbhlach - Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ceannard siùbhlach - Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Mu dheidhinn Nimble Commander-Fork"
+      "translation": "Mu Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Ceannard nimble - Taic Fork"
+      "translation": "Nimble Commander-Fork Cuideachadh"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Ath-thòiseachadh Nimble Commander-Fork gus an cànan ùr a chuir an sàs?"
+      "translation": "Ath-thòisich Nimble Commander-Fork gus an cànan ùr a chur an sàs?"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Faodaidh tu eadar-aghaidh Nimble Commander-Fork eadar-theangachadh gu cànan eile, no eadar-theangachadh a rinn cuideigin eile a chleachdadh. Às-mhalairt an cànan gnàthach, cuir an eadar-theangachadh agad fhèin an àite an teacsa, an uairsin cuir a-steach am faidhle air ais agus ath-thòisich an aplacaid."
+      "translation": "'S urrainn dhut eadar-aghaidh Nimble Commander-Fork eadar-theangachadh gu cànan eile, neo eadar-theangachadh a rinn cuideigin eile a chleachdadh. Às-mhalairt an cànan gnàthach, cuir an eadar-theangachadh agad fhèin an àite an teacsa, an uairsin cuir a-steach am faidhle air ais agus ath-thòisich an aplacaid."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Stòran fhaidhlichean ann am faidhle teacsa, cuingichte"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Targaid ainm faidhle nì gun leudachadh"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Stòr ainm faidhle gun leudachadh"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "A' dùmhlachadh %#@items@"
+      "translation": "A' dùmhlachadh %d nithean"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Cuir a-steach roghainnean bho Nimble Commander?"
+      "translation": "Ion-phortaich roghainnean o Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Choimhead Nimble Commander-Fork airson roghainnean an aplacaid tùsail Nimble Commander ach cha do lorg e dad."
+      "translation": "Choimhead Nimble Commander-Fork airson roghainnean na h-aplacaid tùsail Nimble Commander ach cha do lorg e gin."
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Chaidh na roghainnean a lorg aig:\n%@\n\nBidh in-mhalairt a’ dol an àite nan roghainnean gnàthach agus tabaichean a chaidh a shàbhaladh; tha iad air an cumail suas an toiseach. Bidh Nimble Commander-Fork an uairsin ag ath-thòiseachadh."
+      "translation": "Chaidh na roghainnean a lorg aig:\n%@\n\nBidh in-mhalairt a’ dol an àite nan roghainnean gnàthach agus tabaichean a chaidh a shàbhaladh; tha iad air an cumail suas an toiseach. Nimble Commander-Fork an uairsin ath-thòiseachadh."
     },
     {
       "bundle": "",

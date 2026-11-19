@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "感謝您使用 Nimble Commander-Fork 的註冊副本！請重新啟動以使變更生效。"
+      "translation": "感謝您使用Nimble Commander-Fork的註冊副本！請重新啟動以使變更生效。"
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "這是 Nimble Commander-Fork 的試用版。\n要在 30 天試用期後繼續使用此軟體，您必須購買授權或從 Mac App Store 安裝付費版本。\n此視窗僅在試用版中出現。"
+      "translation": "這是Nimble Commander-Fork的試用版。\n要在 30 天試用期後繼續使用此軟體，您必須購買授權或從 Mac App Store 安裝付費版本。\n此視窗僅在試用版中出現。"
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork 需要完整磁碟存取權才能處理垃圾箱。"
+      "translation": "Nimble Commander-Fork 需要完全磁碟存取權才能使用垃圾箱。"
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "請以管理員身份進行身份驗證，以提供 Nimble Commander-Fork 附加權限"
+      "translation": "請驗證為管理員以提供 Nimble Commander-Fork 額外權限"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "請以管理員身份進行身份驗證，以允許 Nimble Commander-Fork 安裝其他元件。"
+      "translation": "請以管理員身分進行驗證，以允許 Nimble Commander-Fork 安裝其他元件。"
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork 會將它們複製到臨時位置，然後才能開啟。"
+      "translation": "Nimble Commander-Fork 會將它們複製到臨時位置，然後才能打開它們。"
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork 將在開啟之前在臨時位置建立副本。"
+      "translation": "Nimble Commander-Fork 將在開啟之前在臨時位置建立一個副本。"
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "隱藏敏捷指揮官叉"
+      "translation": "隱藏Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "退出 Nimble Commander-Fork"
+      "translation": "退出Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "敏捷指揮官叉"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "敏捷指揮官叉"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "關於 Nimble Commander-Fork"
+      "translation": "約Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork 幫助"
+      "translation": "Nimble Commander-Fork幫助"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "重新啟動 Nimble Commander-Fork 以應用新語言？"
+      "translation": "重新啟動Nimble Commander-Fork以應用新語言？"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "下次 Nimble Commander-Fork 啟動時，介面語言將會變更。"
+      "translation": "下次Nimble Commander-Fork啟動時介面語言將會改變。"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "您可以將 Nimble Commander-Fork 的介面翻譯成其他語言，或使用其他人的翻譯。匯出當前語言，用您自己的翻譯替換文本，然後導回文件並重新啟動應用程式。"
+      "translation": "您可以將Nimble Commander-Fork的介面翻譯成另一種語言，或使用別人的翻譯。匯出當前語言，用您自己的翻譯替換文本，然後導回文件並重新啟動應用程式。"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP 文字檔案中的來源檔案路徑，有限"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n 不含副檔名的目標項目檔名"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n 不含副檔名的來源項目檔名"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "正在壓縮%#@items@"
+      "translation": "正在壓縮 %d 個項目"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "從 Nimble Commander 匯入設定？"
+      "translation": "從Nimble Commander導入設定？"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork 查找了原始 Nimble Commander 應用程式的設置，但沒有找到任何設定。"
+      "translation": "Nimble Commander-Fork尋找原始Nimble Commander應用程式的設置，但找不到任何設定。"
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "未找到 Nimble Commander 設定"
+      "translation": "未找到Nimble Commander設定"
     },
     {
       "bundle": "",

@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Köszönjük, hogy a Nimble Commander-Fork regisztrált példányát használta! Kérjük, indítsa újra, hogy a változtatások életbe lépjenek."
+      "translation": "Köszönjük, hogy a Nimble Commander-Fork regisztrált példányát használta! Kérjük, indítsa újra, hogy a változtatások érvénybe lépjenek."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "A Nimble Commander-Fork-nak teljes lemezhozzáférésre van szüksége a kukával való munkavégzéshez."
+      "translation": "Nimble Commander-Fork teljes lemezhozzáférésre van szüksége a Kuka kezeléséhez."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Ez arra készteti a Nimble Commander-Fork-ot, hogy hozzáférést kérjen, ha szükséges."
+      "translation": "Ennek hatására a Nimble Commander-Fork szükség esetén hozzáférést fog kérni."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Kérjük, hitelesítse magát rendszergazdaként, hogy további jogokat biztosítson a Nimble Commander-Fork számára"
+      "translation": "Kérjük, hitelesítse magát rendszergazdaként, hogy Nimble Commander-Fork további jogokat biztosítson"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Kérjük, hitelesítse magát rendszergazdaként, hogy engedélyezze a Nimble Commander-Fork további összetevők telepítését."
+      "translation": "Kérjük, hitelesítse magát rendszergazdaként, hogy engedélyezze a Nimble Commander-Fork számára további összetevők telepítését."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "A Nimble Commander-Fork átmásolja őket egy ideiglenes helyre, mielőtt kinyitnák őket."
+      "translation": "A Nimble Commander-Fork átmásolja őket egy ideiglenes helyre, mielőtt megnyitnák őket."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "A Nimble Commander-Fork létrehoz egy másolatot egy ideiglenes helyen, mielőtt megnyitná."
+      "translation": "Nimble Commander-Fork létrehoz egy másolatot egy ideiglenes helyen, mielőtt megnyitná."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Hide Fürge Commander-Fork"
+      "translation": "Nimble Commander-Fork elrejtése"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Lépjen ki a Nimble Commander-Forkból"
+      "translation": "Kilépés Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Fürge Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Fürge Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Fürge Commander-Forkról"
+      "translation": "Körülbelül Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Fürge Commander-Fork Help"
+      "translation": "Nimble Commander-Fork Segítség"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "Importált %@ bejegyzések a „%@” számára.\n\nIndítsa újra a Nimble Commander-Forkot az új nyelv megtekintéséhez."
+      "translation": "Importált %@ bejegyzések a „%@” számára.\n\nAz új nyelv megtekintéséhez indítsa újra a Nimble Commander-Fork gombot."
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Újraindítja a Nimble Commander-Forkot az új nyelv alkalmazásához?"
+      "translation": "Indítsa újra a Nimble Commander-Fork alkalmazást az új nyelv alkalmazásához?"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Forrás fájlútvonalak szöveges fájlban, korlátozott"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Célelem fájlneve kiterjesztés nélkül"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n A forráselem fájlneve kiterjesztés nélkül"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@elem tömörítése@"
+      "translation": "%d tétel tömörítése"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Importálja a beállításokat a Nimble Commanderből?"
+      "translation": "Importálja a beállításokat innen: Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "A Nimble Commander-Fork megkereste az eredeti Nimble Commander alkalmazás beállításait, de nem talált ilyet."
+      "translation": "Nimble Commander-Fork megkereste az eredeti Nimble Commander alkalmazás beállításait, de nem talált."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nem találhatók a Nimble Commander beállításai"
+      "translation": "Nem találhatók Nimble Commander beállítások"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "A beállítások itt találhatók:\n%@\n\nAz importálás lecseréli az aktuális beállításokat és a mentett lapokat; először biztonsági másolatot készítenek. A Nimble Commander-Fork ezután újraindul."
+      "translation": "A beállítások itt találhatók:\n%@\n\nAz importálás lecseréli az aktuális beállításokat és a mentett lapokat; először biztonsági másolatot készítenek. Nimble Commander-Fork, majd újraindul."
     },
     {
       "bundle": "",

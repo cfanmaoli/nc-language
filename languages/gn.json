@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork oikotevẽ Full Disk Access ombaꞌapo hag̃ua Basura ndive."
+      "translation": "Nimble Commander-Fork oikotevẽ Jeike Disco Completo ombaꞌapo hag̃ua Basura ndive."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Emoañete peteĩ Administrador ramo eme’ẽ hag̃ua Nimble Commander-Fork-pe derecho ambuéva"
+      "translation": "Emoañete Administrador ramo eme’ẽ hag̃ua Nimble Commander-Fork derecho ambuéva"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Emoañete Administrador ramo ikatu hag̃uáicha Nimble Commander-Fork omohenda componente ambuéva."
+      "translation": "Emoañete Administrador ramo ikatu hag̃uáicha Nimble Commander-Fork omoĩ componente ambuéva."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork okopiáta peteĩ tenda sapy’ami ikatu mboyve ojeipe’a."
+      "translation": "Nimble Commander-Fork okopiáta peteĩ tenda sapy’ami ikatu mboyve ojepe’a."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Oñomi Ágil Comandante-Tenedor"
+      "translation": "Oñomi Nimble Commander-Fork rehegua"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Oheja Ágil Comandante-Tenedor-gui"
+      "translation": "Oheja Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ágil Comandante-Tenedor"
+      "translation": "Nimble Commander-Fork rehegua"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ágil Comandante-Tenedor"
+      "translation": "Nimble Commander-Fork rehegua"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Ágil Comandante-Tenedor rehegua"
+      "translation": "Nimble Commander-Fork rehegua"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Ágil Comandante-Tenedor Pytyvõ"
+      "translation": "Nimble Commander-Fork Pytyvõ"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "¿Emoñepyrũ jey Nimble Commander-Fork eipuru hag̃ua ñe’ẽ pyahu?"
+      "translation": "Emoñepyrũ jey Nimble Commander-Fork eipuru hag̃ua ñe’ẽ pyahu?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Pe ñe’ẽ interfaz rehegua oñemoambuéta ambue jey oñepyrũvo Nimble Commander-Fork."
+      "translation": "Ñe’ẽ interfaz rehegua oñemoambuéta ambue jey oñepyrũvo Nimble Commander-Fork."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Ikatu embohasa Nimble Commander-Fork ñemohendaha ambue ñe’ẽme, térã eipuru peteĩ ñembohasa ambue tapicha ojapova’ekue. Emosẽ ñe’ẽ ko’ag̃agua, emyengovia jehaipyre nde ñembohasa reheve, upéi egueru jey vore ha emoñepyrũ jey pe app."
+      "translation": "Ikatu rembohasa Nimble Commander-Fork interfaz ambue ñe’ẽme, térã reipuru peteĩ ñembohasa ambue tapicha ojapova’ekue. Eguerahauka ñe’ẽ ko’ag̃agua, emyengovia jehaipyre nde ñembohasa reheve, upéi egueru jey pe vore ha emoñepyrũ jey pe app."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Fuente vore rape peteĩ jehaipyre vore’ípe, oñemboty"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Mba’e ojehekahápe vore réra oñembohape’ỹre"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Fuente elemento archivo réra extensión’ỹre"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Oñembohysýivo %#@ mba’e@ ."
+      "translation": "Oñembohysýivo %d mba’e"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "¿Egueru ñemboheko Nimble Commander-gui?"
+      "translation": "Egueru ñemboheko Nimble Commander-gui?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork oheka umi ñemboheko Nimble Commander app ypykue ha katu ndojuhúi mba’eve."
+      "translation": "Nimble Commander-Fork oheka umi ñemboheko Nimble Commander app ypykue rehegua ha katu ndojuhúi mba’eve."
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Ojejuhu ñemboheko ko’ápe:\n%@ rehegua\n\nImportación omyengovia umi preferencia ko’ag̃agua ha umi ficha oñeñongatúva; ha’ekuéra ojejapo respaldo raẽ. Upe rire oñepyrũ jey Nimble Commander-Fork."
+      "translation": "Ojejuhu ñemboheko ko’ápe:\n%@ rehegua\n\nImportación omyengovia umi preferencia ko’ag̃agua ha umi ficha oñeñongatúva; ha’ekuéra ojejapo respaldo raẽ. Nimble Commander-Fork upéi oñepyrũ jey."
     },
     {
       "bundle": "",

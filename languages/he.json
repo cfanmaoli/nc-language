@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "נא אימות כמנהל כדי לספק ל-Nimble Commander-Fork זכויות נוספות"
+      "translation": "נא אימות כמנהל כדי לספק Nimble Commander-Fork זכויות נוספות"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "נא אימות כמנהל מערכת כדי לאפשר ל-Nimble Commander-Fork להתקין רכיבים נוספים."
+      "translation": "אנא אימות כמנהל מערכת כדי לאפשר Nimble Commander-Fork להתקין רכיבים נוספים."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork יעתיק אותם למקום זמני לפני שניתן יהיה לפתוח אותם."
+      "translation": "Nimble Commander-Fork יעתיק אותם למיקום זמני לפני שניתן יהיה לפתוח אותם."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "הסתר זריז מפקד-מזלג"
+      "translation": "הסתר Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "צא מ-Nimble Commander-Fork"
+      "translation": "עזוב Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "מפקד-מזלג זריז"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "מפקד-מזלג זריז"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "על נימבל קומנדר-פורק"
+      "translation": "בערך Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "זריז מפקד-מזלג עזרה"
+      "translation": "Nimble Commander-Fork עזרה"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "להפעיל מחדש את Nimble Commander-Fork כדי ליישם את השפה החדשה?"
+      "translation": "להפעיל מחדש את Nimble Commander-Fork כדי להחיל את השפה החדשה?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "שפת הממשק תשתנה בפעם הבאה שתתחיל Nimble Commander-Fork."
+      "translation": "שפת הממשק תשתנה בפעם הבאה ש-Nimble Commander-Fork יתחיל."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP נתיבי קובץ מקור בקובץ טקסט, מוגבל"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n שם קובץ יעד של פריט ללא סיומת"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n שם קובץ פריט מקור ללא סיומת"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "דחיסת %#@פריטים@"
+      "translation": "דחיסת %d פריטים"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork חיפש את ההגדרות של אפליקציית Nimble Commander המקורית אך לא מצא."
+      "translation": "Nimble Commander-Fork חיפש את ההגדרות של האפליקציה המקורית Nimble Commander אך לא מצא."
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "ההגדרות נמצאו ב:\n%@\n\nייבוא מחליף את ההעדפות הנוכחיות והכרטיסיות השמורות; הם מגובים תחילה. לאחר מכן נמרץ קומנדר-פורק מתחיל מחדש."
+      "translation": "ההגדרות נמצאו ב:\n%@\n\nייבוא מחליף את ההעדפות הנוכחיות והכרטיסיות השמורות; הם מגובים תחילה. Nimble Commander-Fork ואז מופעל מחדש."
     },
     {
       "bundle": "",

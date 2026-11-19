@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱨᱮᱭᱟᱜ ᱨᱮᱡᱤᱥᱴᱟᱨ ᱠᱚᱯᱤ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ! ᱵᱚᱫᱚᱞ ᱠᱚ ᱯᱨᱚᱵᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ᱾"
+      "translation": "Nimble Commander-Fork ᱨᱮᱭᱟᱜ ᱨᱮᱡᱤᱥᱴᱟᱨᱰ ᱠᱚᱯᱤ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ! ᱵᱚᱫᱚᱞ ᱠᱚ ᱯᱨᱚᱵᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ᱾"
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "ᱱᱚᱣᱟ ᱫᱚ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱨᱮᱭᱟᱜ ᱴᱨᱟᱭᱟᱞ ᱵᱷᱟᱨᱥᱚᱱ ᱠᱟᱱᱟ ᱾\n᱓᱐ ᱢᱟᱦᱟᱸ ᱵᱤᱰᱟᱹᱣ ᱚᱠᱛᱚ ᱛᱟᱭᱚᱢ ᱱᱚᱣᱟ ᱥᱚᱯᱷᱴᱣᱮᱭᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱦᱟᱜ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ ᱫᱚ ᱞᱟᱭᱥᱮᱱᱥ ᱠᱤᱨᱤᱧ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱟᱨᱵᱟᱝ ᱢᱮᱠ ᱮᱯ ᱥᱴᱚᱨ ᱠᱷᱚᱱ ᱯᱮᱭᱰ ᱵᱷᱟᱨᱥᱚᱱ ᱤᱱᱥᱴᱚᱞ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ᱾\nᱱᱚᱣᱟ ᱡᱷᱚᱨᱠᱟ ᱫᱚ ᱥᱩᱢᱩᱝ ᱴᱨᱟᱭᱟᱞ ᱵᱷᱟᱨᱥᱚᱱ ᱨᱮ ᱧᱮᱞᱚᱜᱼᱟ ᱾"
+      "translation": "ᱱᱚᱣᱟ ᱫᱚ Nimble Commander-Fork ᱨᱮᱭᱟᱜ ᱴᱨᱟᱭᱟᱞ ᱵᱷᱟᱨᱥᱚᱱ ᱠᱟᱱᱟ ᱾\n᱓᱐ ᱢᱟᱦᱟᱸ ᱵᱤᱰᱟᱹᱣ ᱚᱠᱛᱚ ᱛᱟᱭᱚᱢ ᱱᱚᱣᱟ ᱥᱚᱯᱷᱴᱣᱮᱭᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ ᱫᱚ ᱞᱟᱭᱥᱮᱱᱥ ᱠᱤᱨᱤᱧ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱟᱨᱵᱟᱝ ᱢᱮᱠ ᱮᱯ ᱥᱴᱚᱨ ᱠᱷᱚᱱ ᱯᱮᱭᱰ ᱵᱷᱟᱨᱥᱚᱱ ᱤᱱᱥᱴᱚᱞ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ᱾\nᱱᱚᱣᱟ ᱡᱷᱚᱨᱠᱟ ᱫᱚ ᱥᱩᱢᱩᱝ ᱴᱨᱟᱭᱟᱞ ᱵᱷᱟᱨᱥᱚᱱ ᱨᱮ ᱧᱮᱞᱚᱜᱼᱟ ᱾"
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "ᱱᱚᱣᱟ ᱠᱷᱟᱹᱛᱤᱨ ᱛᱮ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱟᱢ ᱞᱟᱹᱠᱛᱤ ᱡᱷᱚᱜ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱢᱮᱛᱟᱢᱟ ᱾"
+      "translation": "ᱱᱚᱣᱟ ᱠᱷᱟᱹᱛᱤᱨ ᱛᱮ Nimble Commander-Fork ᱫᱚ ᱟᱢ ᱞᱟᱹᱠᱛᱤ ᱡᱷᱚᱜ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱡᱚᱜᱼᱟᱭ ᱾"
     },
     {
       "bundle": "",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱚᱱᱟ ᱠᱚ ᱡᱷᱤᱡᱽ ᱞᱟᱦᱟᱨᱮ ᱢᱤᱫ ᱦᱟᱹᱞᱤ ᱴᱷᱟᱶ ᱨᱮ ᱱᱚᱠᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾"
+      "translation": "Nimble Commander-Fork ᱫᱚ ᱚᱱᱟ ᱠᱚ ᱡᱷᱤᱡᱽ ᱞᱟᱦᱟᱨᱮ ᱢᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹ ᱴᱷᱟᱶ ᱨᱮ ᱱᱚᱠᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾"
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱫᱚ ᱡᱷᱤᱡᱽ ᱞᱟᱦᱟᱨᱮ ᱢᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹ ᱴᱷᱟᱶ ᱨᱮ ᱢᱤᱫ ᱱᱚᱠᱚᱞ ᱛᱮᱭᱟᱨᱟᱭ ᱾"
+      "translation": "Nimble Commander-Fork ᱫᱚ ᱡᱷᱤᱡᱽ ᱞᱟᱦᱟᱨᱮ ᱢᱤᱫ ᱦᱟᱹᱞᱤᱭᱟᱹ ᱴᱷᱟᱶ ᱨᱮ ᱢᱤᱫ ᱱᱚᱠᱚᱞ ᱛᱮᱭᱟᱨᱟᱭ ᱾"
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱩᱠᱩᱭ ᱢᱮ"
+      "translation": "Nimble Commander-Fork ᱩᱠᱩᱭ ᱢᱮ"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ᱞᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱵᱟᱹᱜᱤᱭᱟᱜ ᱢᱮ"
+      "translation": "ᱵᱟᱹᱜᱤᱭᱟᱜ ᱢᱮ Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ᱞᱮᱵᱽᱲᱮᱡ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ᱞᱮᱵᱽᱲᱮᱡ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱵᱟᱨᱮᱛᱮ"
+      "translation": "Nimble Commander-Fork ᱵᱟᱨᱮᱛᱮ"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "ᱞᱮᱵᱽᱲᱮᱡ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱜᱚᱲᱚ"
+      "translation": "Nimble Commander-Fork ᱜᱚᱲᱚ"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "“%@” ᱞᱟᱹᱜᱤᱫ %@ ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ᱾\n\nᱱᱟᱶᱟ ᱯᱟᱹᱨᱥᱤ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱾"
+      "translation": "“%@” ᱞᱟᱹᱜᱤᱫ %@ ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱹᱜᱩ ᱟᱠᱟᱱᱟ᱾\n\nᱱᱟᱶᱟ ᱯᱟᱹᱨᱥᱤ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ Nimble Commander-Fork ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ᱾"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "ᱱᱟᱶᱟ ᱯᱟᱹᱨᱥᱤ ᱞᱟᱹᱜᱩᱫ ᱞᱟᱹᱜᱤᱫ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ?"
+      "translation": "ᱱᱟᱶᱟ ᱯᱟᱹᱨᱥᱤ ᱞᱟᱜᱟᱣ ᱞᱟᱹᱜᱤᱫ Nimble Commander-Fork ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "ᱫᱚᱥᱟᱨ ᱫᱷᱟᱣ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱮᱦᱚᱵᱚᱜ ᱠᱷᱟᱱ ᱤᱱᱴᱟᱨᱯᱷᱮᱥ ᱯᱟᱹᱨᱥᱤ ᱵᱚᱫᱚᱞᱚᱜᱼᱟ ᱾"
+      "translation": "ᱫᱚᱥᱟᱨ ᱫᱷᱟᱣ Nimble Commander-Fork ᱮᱦᱚᱵᱚᱜ ᱠᱷᱟᱱ ᱤᱱᱴᱟᱨᱯᱷᱮᱥ ᱯᱟᱹᱨᱥᱤ ᱵᱚᱫᱚᱞᱚᱜᱼᱟ ᱾"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "ᱟᱢ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱨᱮᱭᱟᱜ ᱤᱱᱴᱟᱨᱯᱷᱮᱥ ᱮᱴᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱨᱮ ᱛᱚᱨᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱟᱨᱵᱟᱝ ᱮᱴᱟᱜ ᱦᱚᱲ ᱦᱚᱛᱮᱛᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱ ᱛᱚᱨᱡᱚᱢ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾ ᱱᱤᱛᱚᱜ ᱯᱟᱹᱨᱥᱤ ᱮᱠᱥᱯᱚᱨᱴ ᱢᱮ, ᱚᱞ ᱫᱚ ᱟᱢᱟᱜ ᱛᱚᱨᱡᱚ ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ, ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱨᱮᱫ ᱨᱩᱣᱟᱹᱲ ᱢᱮ ᱟᱨ ᱮᱯ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱾"
+      "translation": "ᱟᱢ Nimble Commander-Fork ᱨᱮᱭᱟᱜ ᱤᱱᱴᱟᱨᱯᱷᱮᱥ ᱮᱴᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱨᱮ ᱛᱚᱨᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ, ᱟᱨᱵᱟᱝ ᱮᱴᱟᱜ ᱦᱚᱲ ᱦᱚᱛᱮᱛᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱ ᱛᱚᱨᱡᱚᱢ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾ ᱱᱤᱛᱚᱜ ᱯᱟᱹᱨᱥᱤ ᱮᱠᱥᱯᱚᱨᱴ ᱢᱮ, ᱚᱞ ᱫᱚ ᱟᱢᱟᱜ ᱛᱚᱨᱡᱚ ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ, ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱨᱮᱫ ᱨᱩᱣᱟᱹᱲ ᱢᱮ ᱟᱨ ᱮᱯ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱾"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP ᱥᱚᱨᱥ ᱨᱮᱫ ᱯᱟᱛᱷ ᱢᱤᱫ ᱚᱞ ᱨᱮᱫ ᱨᱮ, ᱥᱤᱢᱟᱹ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n ᱵᱤᱱᱟᱹ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱛᱮ ᱡᱚᱥ ᱡᱤᱱᱤᱥ ᱨᱮᱫ ᱧᱩᱛᱩᱢ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n ᱵᱤᱱᱟᱹ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱛᱮ ᱥᱚᱨᱥ ᱡᱤᱱᱤᱥ ᱨᱮᱫ ᱧᱩᱛᱩᱢ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "ᱠᱚᱢᱯᱨᱮᱥᱤᱝ %#@ᱟᱭᱤᱴᱚᱢ@"
+      "translation": "%d ᱡᱤᱱᱤᱥ ᱠᱚ ᱠᱚᱢᱯᱨᱮᱥᱤᱝ"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ ᱠᱷᱚᱱ ᱥᱮᱴᱤᱝ ᱤᱢᱯᱚᱨᱴ ᱢᱮ?"
+      "translation": "Nimble Commander ᱠᱷᱚᱱ ᱥᱮᱴᱤᱝ ᱤᱢᱯᱚᱨᱴ ᱢᱮ?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱫᱚ ᱟᱥᱚᱞ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ ᱮᱯ ᱨᱮᱭᱟᱜ ᱥᱮᱴᱤᱝ ᱧᱮᱞ ᱠᱮᱫᱟᱭ ᱢᱮᱱᱠᱷᱟᱱ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱫᱟ ᱾"
+      "translation": "Nimble Commander-Fork ᱟᱥᱚᱞ Nimble Commander ᱮᱯ ᱨᱮᱭᱟᱜ ᱥᱮᱴᱤᱝ ᱧᱮᱞ ᱠᱮᱫᱟᱹᱧ ᱢᱮᱱᱠᱷᱟᱱ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾"
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ ᱥᱮᱴᱤᱝ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ"
+      "translation": "ᱪᱮᱫ Nimble Commander ᱥᱮᱴᱤᱝ ᱵᱟᱝ ᱧᱟᱢ ᱟᱠᱟᱱᱟ"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "ᱥᱮᱴᱤᱝ ᱠᱚ ᱧᱟᱢ ᱞᱮᱱᱟ:\n%@\n\nᱟᱹᱜᱩ ᱫᱚ ᱱᱤᱛᱚᱜ ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱫᱚᱞ ᱮᱫᱟᱭ; ᱩᱱᱠᱩ ᱫᱚ ᱞᱟᱦᱟᱨᱮ ᱵᱮᱠ ᱟᱯ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾ ᱱᱤᱢᱵᱚᱞ ᱠᱚᱢᱟᱱᱰᱟᱨ-ᱯᱷᱚᱨᱠ ᱫᱚ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱜᱼᱟ ᱾"
+      "translation": "ᱥᱮᱴᱤᱝ ᱠᱚ ᱧᱟᱢ ᱞᱮᱱᱟ:\n%@\n\nᱟᱹᱜᱩ ᱫᱚ ᱱᱤᱛᱚᱜ ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱫᱚᱞ ᱮᱫᱟᱭ; ᱩᱱᱠᱩ ᱫᱚ ᱞᱟᱦᱟᱨᱮ ᱵᱮᱠ ᱟᱯ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾ Nimble Commander-Fork ᱛᱟᱭᱚᱢ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱜᱼᱟ ᱾"
     },
     {
       "bundle": "",

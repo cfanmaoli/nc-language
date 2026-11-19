@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Благодарим ви, че използвате регистрирано копие на Nimble Commander-Fork! Моля, рестартирайте го, за да влязат в сила промените."
+      "translation": "Благодарим ви, че използвате регистрирано копие от Nimble Commander-Fork! Моля, рестартирайте го, за да влязат в сила промените."
     },
     {
       "bundle": "",
@@ -829,7 +829,7 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Моля, удостоверете се като администратор, за да предоставите допълнителни права на Nimble Commander-Fork"
+      "translation": "Моля, удостоверете се като администратор, за да предоставите Nimble Commander-Fork допълнителни права"
     },
     {
       "bundle": "RoutedIOResources.bundle",
@@ -2638,7 +2638,7 @@
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ще създаде копие на временно място, преди да може да бъде отворено."
+      "translation": "Nimble Commander-Fork ще създаде копие във временно местоположение, преди да може да бъде отворено."
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Пъргав Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Пъргав Commander-Fork"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Относно Nimble Commander-Fork"
+      "translation": "Около Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Помощ за Nimble Commander-Fork"
+      "translation": "Nimble Commander-Fork Помощ"
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Изходни файлови пътища в текстов файл, ограничени"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Име на файла на целевия елемент без разширение"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Име на файла на изходния елемент без разширение"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "Компресиране на %#@артикула@"
+      "translation": "Компресиране на %d елемента"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Няма намерени настройки на Nimble Commander"
+      "translation": "Няма намерени Nimble Commander настройки"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Настройките бяха намерени на:\n%@\n\nИмпортирането замества текущите предпочитания и запазените раздели; първо се архивират. След това Nimble Commander-Fork се рестартира."
+      "translation": "Настройките бяха намерени на:\n%@\n\nИмпортирането замества текущите предпочитания и запазените раздели; първо се архивират. Nimble Commander-Fork след това се рестартира."
     },
     {
       "bundle": "",

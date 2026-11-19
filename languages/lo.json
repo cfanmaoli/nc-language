@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "ຂໍ​ຂອບ​ໃຈ​ທ່ານ​ສໍາ​ລັບ​ການ​ນໍາ​ໃຊ້​ສໍາ​ເນົາ​ຈົດ​ທະ​ບຽນ Nimble Commander-Fork​! ກະລຸນາຣີສະຕາດມັນເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ."
+      "translation": "ຂໍ​ຂອບ​ໃຈ​ທ່ານ​ສໍາ​ລັບ​ການ​ນໍາ​ໃຊ້​ສໍາ​ເນົາ​ຈົດ​ທະ​ບຽນ​ຂອງ Nimble Commander-Fork​! ກະລຸນາຣີສະຕາດມັນເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ຕ້ອງການ Full Disk Access ເພື່ອເຮັດວຽກກັບຖັງຂີ້ເຫຍື້ອ."
+      "translation": "Nimble Commander-Forkຕ້ອງການການເຂົ້າເຖິງ Disk ເຕັມເພື່ອເຮັດວຽກກັບຖັງຂີ້ເຫຍື້ອ."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "ອັນນີ້ຈະເຮັດໃຫ້ Nimble Commander-Fork ຂໍໃຫ້ເຈົ້າເຂົ້າເຖິງເມື່ອຈຳເປັນ."
+      "translation": "ອັນນີ້ຈະເຮັດໃຫ້ Nimble Commander-Fork ຮ້ອງຂໍໃຫ້ເຈົ້າເຂົ້າເຖິງເມື່ອຈຳເປັນ."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "ກະລຸນາກວດສອບຄວາມຖືກຕ້ອງໃນຖານະຜູ້ເບິ່ງແຍງລະບົບເພື່ອໃຫ້ສິດເພີ່ມເຕີມຂອງ Nimble Commander-Fork"
+      "translation": "ກະລຸນາກວດສອບຄວາມຖືກຕ້ອງໃນຖານະຜູ້ເບິ່ງແຍງລະບົບເພື່ອໃຫ້ Nimble Commander-Fork ສິດທິເພີ່ມເຕີມ"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "ກະລຸນາກວດສອບຄວາມຖືກຕ້ອງໃນຖານະຜູ້ເບິ່ງແຍງລະບົບເພື່ອອະນຸຍາດໃຫ້ Nimble Commander-Fork ຕິດຕັ້ງອົງປະກອບເພີ່ມເຕີມ."
+      "translation": "ກະ​ລຸ​ນາ​ກວດ​ສອບ​ເປັນ Administrator ເພື່ອ​ອະ​ນຸ​ຍາດ​ໃຫ້ Nimble Commander-Fork ຕິດ​ຕັ້ງ​ອົງ​ປະ​ກອບ​ເພີ່ມ​ເຕີມ​."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ຈະຄັດລອກພວກມັນໄປທີ່ສະຖານທີ່ຊົ່ວຄາວກ່ອນທີ່ພວກເຂົາສາມາດເປີດໄດ້."
+      "translation": "Nimble Commander-Forkຈະຄັດລອກພວກມັນໃສ່ບ່ອນຊົ່ວຄາວກ່ອນທີ່ມັນຈະເປີດໄດ້."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ຈະສ້າງສໍາເນົາຢູ່ໃນສະຖານທີ່ຊົ່ວຄາວກ່ອນທີ່ຈະສາມາດເປີດໄດ້."
+      "translation": "Nimble Commander-Forkຈະສ້າງສຳເນົາຢູ່ໃນສະຖານທີ່ຊົ່ວຄາວກ່ອນທີ່ມັນຈະເປີດໄດ້."
     },
     {
       "bundle": "",
@@ -3419,7 +3419,7 @@
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ອອກຈາກ Nimble Commander-Fork"
+      "translation": "ເຊົາNimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3580,7 +3580,7 @@
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "ກ່ຽວກັບ Nimble Commander-Fork"
+      "translation": "ປະມານNimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork ຊ່ວຍເຫຼືອ"
+      "translation": "Nimble Commander-Fork ຊ່ວຍ"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "ພາສາການໂຕ້ຕອບຈະປ່ຽນເວລາຕໍ່ໄປ Nimble Commander-Fork ເລີ່ມຕົ້ນ."
+      "translation": "ພາສາການໂຕ້ຕອບຈະປ່ຽນໃນເວລາຕໍ່ໄປ Nimble Commander-Forkເລີ່ມຕົ້ນ."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "ທ່ານສາມາດແປການໂຕ້ຕອບຂອງ Nimble Commander-Fork ເປັນພາສາອື່ນ, ຫຼືໃຊ້ການແປພາສາທີ່ເຮັດໂດຍຄົນອື່ນ. ສົ່ງ​ອອກ​ພາ​ສາ​ປະ​ຈຸ​ບັນ​, ທົດ​ແທນ​ຂໍ້​ຄວາມ​ທີ່​ມີ​ການ​ແປ​ພາ​ສາ​ຂອງ​ທ່ານ​ເອງ​, ຫຼັງ​ຈາກ​ນັ້ນ​ນໍາ​ເຂົ້າ​ໄຟລ​໌​ກັບ​ຄືນ​ໄປ​ບ່ອນ​ແລະ restart app ໄດ້​."
+      "translation": "ທ່ານສາມາດແປສ່ວນຕິດຕໍ່ຂອງ Nimble Commander-Fork ເປັນພາສາອື່ນ, ຫຼືໃຊ້ການແປທີ່ເຮັດໂດຍຜູ້ອື່ນ. ສົ່ງ​ອອກ​ພາ​ສາ​ປະ​ຈຸ​ບັນ​, ທົດ​ແທນ​ຂໍ້​ຄວາມ​ທີ່​ມີ​ການ​ແປ​ພາ​ສາ​ຂອງ​ທ່ານ​ເອງ​, ຫຼັງ​ຈາກ​ນັ້ນ​ນໍາ​ເຂົ້າ​ໄຟລ​໌​ກັບ​ຄືນ​ໄປ​ບ່ອນ​ແລະ restart app ໄດ້​."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP filepaths ແຫຼ່ງໃນໄຟລ໌ຂໍ້ຄວາມ, ຈໍາກັດ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n ຊື່ໄຟລ໌ລາຍການເປົ້າໝາຍທີ່ບໍ່ມີນາມສະກຸນ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n ຊື່ໄຟລ໌ລາຍການແຫຼ່ງທີ່ບໍ່ມີນາມສະກຸນ"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "ກຳລັງບີບອັດ %#@ລາຍການ@"
+      "translation": "ກຳລັງບີບອັດ %d ລາຍການ"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ຊອກຫາການຕັ້ງຄ່າຂອງແອັບຯ Nimble Commander ຕົ້ນສະບັບແຕ່ບໍ່ພົບ."
+      "translation": "Nimble Commander-Forkຊອກຫາການຕັ້ງຄ່າຂອງແອັບ Nimble Commander ເດີມແຕ່ບໍ່ພົບ."
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "ພົບເຫັນການຕັ້ງຄ່າຢູ່ທີ່:\n%@\n\nການນຳເຂົ້າມາແທນທີ່ການຕັ້ງຄ່າປັດຈຸບັນ ແລະແຖບທີ່ບັນທຶກໄວ້; ພວກມັນຖືກສຳຮອງໄວ້ກ່ອນ. Nimble Commander-Fork ຈາກນັ້ນປິດເປີດຄືນໃໝ່."
+      "translation": "ການ​ຕັ້ງ​ຄ່າ​ໄດ້​ຖືກ​ພົບ​ເຫັນ​ຢູ່​ທີ່​:\n%@\n\nການນຳເຂົ້າມາແທນທີ່ການຕັ້ງຄ່າປັດຈຸບັນ ແລະແຖບທີ່ບັນທຶກໄວ້; ພວກມັນຖືກສຳຮອງໄວ້ກ່ອນ. Nimble Commander-Fork ຈາກນັ້ນຣີສະຕາດ."
     },
     {
       "bundle": "",

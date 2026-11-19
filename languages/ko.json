@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork 등록 사본을 사용해 주셔서 감사합니다! 변경 사항을 적용하려면 다시 시작하세요."
+      "translation": "Nimble Commander-Fork의 등록 사본을 사용해 주셔서 감사합니다! 변경 사항을 적용하려면 다시 시작하세요."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "이것은 Nimble Commander-Fork의 평가판 버전입니다.\n30일 평가판 기간 이후에도 이 소프트웨어를 계속 사용하려면 라이센스를 구입하거나 Mac App Store에서 유료 버전을 설치해야 합니다.\n이 창은 평가판에서만 나타납니다."
+      "translation": "Nimble Commander-Fork의 체험판입니다.\n30일 평가판 기간 이후에도 이 소프트웨어를 계속 사용하려면 라이센스를 구입하거나 Mac App Store에서 유료 버전을 설치해야 합니다.\n이 창은 평가판에서만 나타납니다."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork가 휴지통 작업을 하려면 전체 디스크 액세스가 필요합니다."
+      "translation": "Nimble Commander-Fork에서 휴지통을 사용하려면 전체 디스크 액세스가 필요합니다."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "그러면 Nimble Commander-Fork가 필요할 때 액세스를 요청하게 됩니다."
+      "translation": "이렇게 하면 Nimble Commander-Fork에서 필요할 때 액세스 권한을 요청하게 됩니다."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork에 추가 권한을 제공하려면 관리자로 인증하세요."
+      "translation": "Nimble Commander-Fork 추가 권한을 제공하려면 관리자로 인증하세요."
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork가 추가 구성 요소를 설치할 수 있도록 하려면 관리자로 인증하세요."
+      "translation": "Nimble Commander-Fork 추가 구성 요소 설치를 허용하려면 관리자로 인증하세요."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,14 +2631,14 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork는 해당 파일을 열기 전에 임시 위치에 복사합니다."
+      "translation": "Nimble Commander-Fork는 파일을 열기 전에 임시 위치에 복사합니다."
     },
     {
       "bundle": "",
       "key": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "source": "Nimble Commander-Fork will create a copy in a temporary location before it can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork는 열기 전에 임시 위치에 복사본을 생성합니다."
+      "translation": "Nimble Commander-Fork는 열기 전에 임시 위치에 복사본을 만듭니다."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "민첩한 커맨더 포크 숨기기"
+      "translation": "Nimble Commander-Fork 숨기기"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork 종료"
+      "translation": "종료 Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,14 +3566,14 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "민첩한 커맨더 포크"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "민첩한 커맨더 포크"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "새 언어를 적용하려면 Nimble Commander-Fork를 다시 시작하시겠습니까?"
+      "translation": "새 언어를 적용하려면 Nimble Commander-Fork을 다시 시작하시겠습니까?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "다음에 Nimble Commander-Fork가 시작되면 인터페이스 언어가 변경됩니다."
+      "translation": "다음에 Nimble Commander-Fork이(가) 시작되면 인터페이스 언어가 변경됩니다."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP 텍스트 파일의 소스 파일 경로, 제한됨"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n 확장자가 없는 대상 항목 파일 이름"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n 확장자가 없는 소스 항목 파일 이름"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@items@ 압축 중"
+      "translation": "%d개 항목 압축 중"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork는 원래 Nimble Commander 앱의 설정을 찾았지만 아무 것도 찾지 못했습니다."
+      "translation": "Nimble Commander-Fork은 원래 Nimble Commander 앱의 설정을 찾았으나 아무 것도 찾지 못했습니다."
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "설정은 다음에서 찾을 수 있습니다.\n%@\n\n가져오기는 현재 기본 설정과 저장된 탭을 대체합니다. 먼저 백업됩니다. 그런 다음 Nimble Commander-Fork가 다시 시작됩니다."
+      "translation": "설정은 다음에서 찾을 수 있습니다.\n%@\n\n가져오기는 현재 기본 설정과 저장된 탭을 대체합니다. 먼저 백업됩니다. Nimble Commander-Fork 그런 다음 다시 시작됩니다."
     },
     {
       "bundle": "",

@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Täname, et kasutasite Nimble Commander-Forki registreeritud koopiat! Muudatuste jõustumiseks taaskäivitage see."
+      "translation": "Täname, et kasutasite Nimble Commander-Fork registreeritud koopiat! Muudatuste jõustumiseks taaskäivitage see."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "See on Nimble Commander-Forki prooviversioon.\nSelle tarkvara kasutamise jätkamiseks pärast 30-päevast prooviperioodi peate ostma litsentsi või installima tasulise versiooni Mac App Store'ist.\nSee aken kuvatakse ainult prooviversiooni puhul."
+      "translation": "See on Nimble Commander-Fork prooviversioon.\nSelle tarkvara kasutamise jätkamiseks pärast 30-päevast prooviperioodi peate ostma litsentsi või installima tasulise versiooni Mac App Store'ist.\nSee aken kuvatakse ainult prooviversiooni puhul."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "See paneb Nimble Commander-Forki vajaduse korral juurdepääsu küsima."
+      "translation": "See paneb Nimble Commander-Fork teilt vajaduse korral juurdepääsu küsima."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Nimble Commander-Forki lisaõiguste andmiseks autentige end administraatorina"
+      "translation": "Nimble Commander-Fork lisaõiguste andmiseks autentige end administraatorina"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Autentige end administraatorina, et lubada Nimble Commander-Forkil installida lisakomponente."
+      "translation": "Lisakomponentide installimiseks Nimble Commander-Fork autentige end administraatorina."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Peida krapsakas ülem-kahvel"
+      "translation": "Peida Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Lõpetage Nimble Commander-Fork"
+      "translation": "Välju Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Krapsakas ülem-kahvel"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Krapsakas ülem-kahvel"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Forki kohta"
+      "translation": "Umbes Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Krapsakas komandör-kahvli abi"
+      "translation": "Nimble Commander-Fork Abi"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Liidese keel muutub järgmisel korral, kui Nimble Commander-Fork käivitub."
+      "translation": "Liidese keel muutub järgmisel Nimble Commander-Fork käivitumisel."
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Saate tõlkida Nimble Commander-Forki liidese mõnda teise keelde või kasutada kellegi teise tehtud tõlget. Eksportige praegune keel, asendage tekst oma tõlkega, seejärel importige fail tagasi ja taaskäivitage rakendus."
+      "translation": "Saate tõlkida Nimble Commander-Fork liidese teise keelde või kasutada kellegi teise tehtud tõlget. Eksportige praegune keel, asendage tekst oma tõlkega, seejärel importige fail tagasi ja taaskäivitage rakendus."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP lähteteksti failiteed tekstifailis, piiratud"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Sihtüksuse failinimi ilma laiendita"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Lähteüksuse failinimi ilma laiendita"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@üksuse tihendamine@"
+      "translation": "%d üksuste tihendamine"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Kas importida seaded Nimble Commanderist?"
+      "translation": "Kas importida seaded asukohast Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork otsis algse Nimble Commanderi rakenduse sätteid, kuid ei leidnud neid."
+      "translation": "Nimble Commander-Fork otsis algse rakenduse Nimble Commander sätteid, kuid ei leidnud neid."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Nimble Commanderi seadeid ei leitud"
+      "translation": "Nimble Commander seadeid ei leitud"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Seaded leiti aadressilt:\n%@\n\nImportimine asendab praegused eelistused ja salvestatud vahelehed; need varundatakse kõigepealt. Nimble Commander-Fork taaskäivitub."
+      "translation": "Seaded leiti aadressilt:\n%@\n\nImportimine asendab praegused eelistused ja salvestatud vahelehed; need varundatakse kõigepealt. Nimble Commander-Fork ja seejärel taaskäivitub."
     },
     {
       "bundle": "",

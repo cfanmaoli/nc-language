@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Forkning ro'yxatdan o'tgan nusxasidan foydalanganingiz uchun tashakkur! O'zgarishlar kuchga kirishi uchun uni qayta ishga tushiring."
+      "translation": "Nimble Commander-Fork roʻyxatdan oʻtgan nusxasidan foydalanganingiz uchun tashakkur! O'zgarishlar kuchga kirishi uchun uni qayta ishga tushiring."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Bu Nimble Commander-Forkning sinov versiyasi.\n30 kunlik sinov muddatidan keyin ushbu dasturdan foydalanishni davom ettirish uchun siz litsenziya sotib olishingiz yoki Mac App Store doʻkonidan pullik versiyasini oʻrnatishingiz kerak.\nUshbu oyna faqat sinov versiyasida paydo bo'ladi."
+      "translation": "Bu Nimble Commander-Fork ning sinov versiyasi.\n30 kunlik sinov muddatidan keyin ushbu dasturdan foydalanishni davom ettirish uchun siz litsenziya sotib olishingiz yoki Mac App Store doʻkonidan pullik versiyasini oʻrnatishingiz kerak.\nUshbu oyna faqat sinov versiyasida paydo bo'ladi."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork axlat qutisi bilan ishlash uchun to'liq diskdan foydalanishga muhtoj."
+      "translation": "Nimble Commander-Fork Chiqindi bilan ishlash uchun diskka toʻliq kirish kerak."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Bu Nimble Commander-Fork sizga kerak bo'lganda kirishni so'rashiga olib keladi."
+      "translation": "Bu Nimble Commander-Fork kerak bo‘lganda sizdan ruxsat so‘rashiga sabab bo‘ladi."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "Iltimos, Nimble Commander-Fork-ga qo'shimcha huquqlar berish uchun administrator sifatida autentifikatsiya qiling"
+      "translation": "Nimble Commander-Fork qoʻshimcha huquqlarni taqdim etish uchun administrator sifatida autentifikatsiya qiling"
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork-ga qo'shimcha komponentlarni o'rnatishga ruxsat berish uchun administrator sifatida autentifikatsiya qiling."
+      "translation": "Nimble Commander-Fork qoʻshimcha komponentlarni oʻrnatishga ruxsat berish uchun administrator sifatida autentifikatsiya qiling."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork ularni ochishdan oldin ularni vaqtinchalik joyga ko'chiradi."
+      "translation": "Nimble Commander-Fork ularni ochishdan oldin ularni vaqtinchalik joyga ko‘chiradi."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork-ni yashirish"
+      "translation": "Nimble Commander-Fork yashirish"
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Nimble Commander-Fork-dan chiqing"
+      "translation": "Nimble Commander-Fork dan chiqing"
     },
     {
       "bundle": "",
@@ -3566,14 +3566,14 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Tezkor qo'mondon-vilka"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Tezkor qo'mondon-vilka"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "Tezkor qo'mondon-vilkalar yordami"
+      "translation": "Nimble Commander-Fork Yordam"
     },
     {
       "bundle": "",
@@ -5593,7 +5593,7 @@
       "key": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "source": "Imported %@ entries for “%@”.\n\nRestart Nimble Commander-Fork to see the new language.",
       "table": "Preferences",
-      "translation": "“%@” uchun %@ yozuvlar import qilindi.\n\nYangi tilni ko'rish uchun Nimble Commander-Fork-ni qayta ishga tushiring."
+      "translation": "“%@” uchun import qilingan %@ yozuvlar.\n\nYangi tilni koʻrish uchun Nimble Commander-Fork ni qayta ishga tushiring."
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Yangi tilni qo'llash uchun Nimble Commander-Fork qayta ishga tushirilsinmi?"
+      "translation": "Yangi tilni qoʻllash uchun Nimble Commander-Fork qayta ishga tushirilsinmi?"
     },
     {
       "bundle": "",
@@ -6009,7 +6009,7 @@
       "key": "The interface language will change the next time Nimble Commander-Fork starts.",
       "source": "The interface language will change the next time Nimble Commander-Fork starts.",
       "table": "Preferences",
-      "translation": "Nimble Commander-Fork keyingi ishga tushganda interfeys tili o'zgaradi."
+      "translation": "Keyingi safar Nimble Commander-Fork ishga tushganda interfeys tili o‘zgaradi."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "Matn faylidagi %10LP Manba fayl yoʻllari, cheklangan"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Maqsadli element fayl nomi kengaytmasiz"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Manba elementi fayl nomi kengaytmasiz"
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@elementlar siqilmoqda@"
+      "translation": "%d elementni siqish"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Nimble Commander sozlamalari import qilinsinmi?"
+      "translation": "Nimble Commander dan sozlamalar import qilinsinmi?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork asl Nimble Commander ilovasining sozlamalarini qidirdi, lekin hech birini topa olmadi."
+      "translation": "Nimble Commander-Fork original Nimble Commander ilovasining sozlamalarini qidirdi, lekin hech birini topa olmadi."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "Hech qanday Nimble Commander sozlamalari topilmadi"
+      "translation": "Nimble Commander sozlamalari topilmadi"
     },
     {
       "bundle": "",

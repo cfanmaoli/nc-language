@@ -440,7 +440,7 @@
       "key": "__THANKS_FOR_REGISTER_INFORMATIVE",
       "source": "Thank you for using a registered copy of Nimble Commander-Fork! Please restart it for the changes to take effect.",
       "table": "Localizable",
-      "translation": "Paļdis, ka izmontuoji Nimble Commander-Fork registrātu eksemplaru! Lyudzu, restartej tū, lai izmainis īsastuotu."
+      "translation": "Paļdis, ka izmontuojit Nimble Commander-Fork registrātu kopeju! Lyudzu, restartej tū, lai izmainis īsastuotu."
     },
     {
       "bundle": "",
@@ -454,7 +454,7 @@
       "key": "__TRIAL_WINDOW_NOTE",
       "source": "This is a trial version of Nimble Commander-Fork.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version.",
       "table": "Localizable",
-      "translation": "Tei ir Nimble komandera-dakšys izmieginuojuma verseja.\nKab turpynuotu lītuot itū programmatūru piec 30 dīnu izmieginuojuma perioda, ir voi nu juopierk liceņce, voi juoinstalej apmoksuotuo verseja nu Mac App Store.\nItys lūgs pasaruoda tikai izmieginuojuma versejā."
+      "translation": "Tei ir Nimble Commander-Fork izmieginuojuma verseja.\nKab turpynuotu lītuot itū programmatūru piec 30 dīnu izmieginuojuma perioda, ir voi nu juopierk licence, voi juoinstalej apmoksuotuo verseja nu Mac App Store.\nItys lūgs pasaruoda tikai izmieginuojuma versejā."
     },
     {
       "bundle": "",
@@ -518,7 +518,7 @@
       "key": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "source": "Nimble Commander-Fork needs Full Disk Access to work with the Trash.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork vajag Pylnu Diska Pīeju, lai struoduotu ar Trash."
+      "translation": "Nimble Commander-Fork vajag Pylnu Disku Pīeju, lai struoduotu ar Atkrytumu maisu."
     },
     {
       "bundle": "",
@@ -651,7 +651,7 @@
       "key": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "source": "This will cause Nimble Commander-Fork to ask you for access when necessary.",
       "table": "Preferences",
-      "translation": "Tys liks Nimble Commander-Fork praseit pīkļuvi, kod vajadzeigs."
+      "translation": "Tys liks Nimble Commander-Fork praseit jums pīkļuvi, kod vajadzeigs."
     },
     {
       "bundle": "",
@@ -829,14 +829,14 @@
       "key": "AUTH_AS_ADMIN_PROMPT",
       "source": "Please authenticate as an Administrator to provide Nimble Commander-Fork additional rights",
       "table": "Localizable",
-      "translation": "100 doc#1281 Lyudzu , apstyprynojīs kai administrators , lai nūdrūšynuotu Nimble komandera-dakša papyldu tīseibys ."
+      "translation": "Lyudzu, apstyprynojīs kai administrators, lai nūdrūšynuotu Nimble Commander-Fork papyldu tīseibys ."
     },
     {
       "bundle": "RoutedIOResources.bundle",
       "key": "INSTALL_HELPER_APP_PROMPT",
       "source": "Please authenticate as an Administrator to allow Nimble Commander-Fork install additional components.",
       "table": "Localizable",
-      "translation": "Lyudzu, apstyprynojīs kai Administrators, lai ļautu Nimble Commander-Fork uzstuodeit papyldu komponentus."
+      "translation": "Lyudzu, autentificejīs kai administrators, lai Nimble Commander-Fork varātu instalēt papyldu komponentus."
     },
     {
       "bundle": "UtilityResources.bundle",
@@ -2631,7 +2631,7 @@
       "key": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "source": "Nimble Commander-Fork will copy them to a temporary location before they can be opened.",
       "table": "Localizable",
-      "translation": "Nimble Commander-Fork tuos puorkopēs iz pagaidu vītu, pyrma tuos varēs atvērt."
+      "translation": "Nimble Commander-Fork tuos puorkopēs iz pagaidu vītu, pyrma tuos var atvērt."
     },
     {
       "bundle": "",
@@ -3412,14 +3412,14 @@
       "key": "134.title",
       "source": "Hide Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Slēpt vīglu komanderi-dakšu ."
+      "translation": "Slēpt Nimble Commander-Fork ."
     },
     {
       "bundle": "",
       "key": "136.title",
       "source": "Quit Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Atstuot vīglu komanderi-dakšu ."
+      "translation": "Atstuot nu Nimble Commander-Fork"
     },
     {
       "bundle": "",
@@ -3566,21 +3566,21 @@
       "key": "56.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Veikls komanders-dakša"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "57.title",
       "source": "Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Veikls komanders-dakša"
+      "translation": "Nimble Commander-Fork"
     },
     {
       "bundle": "",
       "key": "58.title",
       "source": "About Nimble Commander-Fork",
       "table": "MainMenu",
-      "translation": "Par vīglu komanderi-dakšu ."
+      "translation": "Par Nimble Commander-Fork ."
     },
     {
       "bundle": "",
@@ -4483,7 +4483,7 @@
       "key": "iBP-LD-aNS.title",
       "source": "Nimble Commander-Fork Help",
       "table": "MainMenu",
-      "translation": "100 doc#1159 Veitrys komanders-dakšys paleidzeiba"
+      "translation": "Nimble Commander-Fork Paleidzeiba"
     },
     {
       "bundle": "",
@@ -5785,7 +5785,7 @@
       "key": "Restart Nimble Commander-Fork to apply the new language?",
       "source": "Restart Nimble Commander-Fork to apply the new language?",
       "table": "Preferences",
-      "translation": "Restartēt Nimble komanderi-dakšu, lai pīlītuotu jaunū volūdu?"
+      "translation": "Restartej Nimble Commander-Fork, lai pīlītuotu jaunū volūdu?"
     },
     {
       "bundle": "",
@@ -6065,7 +6065,7 @@
       "key": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "source": "You can translate the interface of Nimble Commander-Fork into another language, or use a translation made by someone else. Export the current language, replace the text with your own translation, then import the file back and restart the app.",
       "table": "Preferences",
-      "translation": "Nimble Commander-Fork saskarni var tulkuot cytā volūdā, voi izmontuot kaida cyta izdareitū tulkuojumu. Eksportej tagadejū volūdu, aizvītoj tekstu ar sovu tulkuojumu, tod importej failu atpakaļ i puorstartej lītuotni."
+      "translation": "Var tulkuot Nimble Commander-Fork saskarni cytā volūdā, voi izmontuot kaida cyta izdareitū tulkuojumu. Eksportej tagadejū volūdu, aizvītoj tekstu ar sovu tulkuojumu, tod importej failu atpakaļ i puorstartej lītuotni."
     },
     {
       "bundle": "",
@@ -7683,7 +7683,7 @@
       "key": "n7P-7k-Ogp.title",
       "source": "%10LP \tSource filepaths in a text file, limited",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%10LP Olūta failu celi teksta failā, īrūbežuoti ."
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7718,7 +7718,7 @@
       "key": "t7c-uZ-Wyx.title",
       "source": "%-n\tTarget item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%-n Mierķa vīnuma faila nūsaukums bez paplašynuojuma ."
+      "translation": ""
     },
     {
       "bundle": "",
@@ -7732,7 +7732,7 @@
       "key": "wfS-Ll-F4V.title",
       "source": "%n\tSource item filename without extension",
       "table": "PreferencesWindowToolsTab",
-      "translation": "%n Olūta vīnuma faila nūsaukums bez paplašynuojuma ."
+      "translation": ""
     },
     {
       "bundle": "",
@@ -10233,7 +10233,7 @@
       "key": "Compressing %d items",
       "source": "Compressing %#@items@",
       "table": "Localizable",
-      "translation": "%#@punktu saspīšona@"
+      "translation": "%d vīnumu saspīšona"
     },
     {
       "bundle": "OperationsResources.bundle",
@@ -10691,7 +10691,7 @@
       "key": "Import settings from Nimble Commander?",
       "source": "Import settings from Nimble Commander?",
       "table": "Localizable",
-      "translation": "Importēt īstatejumus nu Nimble komandera?"
+      "translation": "Importēt īstatejumus nu Nimble Commander?"
     },
     {
       "bundle": "",
@@ -10699,7 +10699,7 @@
       "key": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "source": "Nimble Commander-Fork looked for the settings of the original Nimble Commander app but didn't find any.",
       "table": "Localizable",
-      "translation": "100 doc#1159 Nimble Commander-Fork meklēja originaluos Nimble Commander lītys īstatejumus, bet nivīnu naatroda."
+      "translation": "Nimble Commander-Fork meklieju originaluos Nimble Commander lītys īstatejumus, bet nivīnu naatrodu."
     },
     {
       "bundle": "",
@@ -10707,7 +10707,7 @@
       "key": "No Nimble Commander settings found",
       "source": "No Nimble Commander settings found",
       "table": "Localizable",
-      "translation": "100 doc#1159 Nav atrosti Nimble komandera īstatejumu ."
+      "translation": "Nav atrosti Nimble Commander īstatejumi"
     },
     {
       "bundle": "",
@@ -10722,7 +10722,7 @@
       "key": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "source": "Settings were found at:\n%@\n\nImporting replaces the current preferences and saved tabs; they are backed up first. Nimble Commander-Fork then restarts.",
       "table": "Localizable",
-      "translation": "Īstatejumi tyka atrosti:\n%@\n\nImportēšona aizstuoj tagadejuos izvēlis i saglobuotuos cilnis; jī teik atbaļsteiti pyrmī. Nimble Komandants-Dakša tod restartej."
+      "translation": "Īstatejumi tyka atrosti:\n%@\n\nImportēšona aizstuoj tagadejuos izvēlis i saglobuotuos cilnis; jī teik atbaļsteiti pyrmī. Nimble Commander-Fork tod puorstartej."
     },
     {
       "bundle": "",
